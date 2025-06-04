@@ -1,0 +1,544 @@
+State Bank of India offers a Personal Loan with an interest rate of 10.50% - 15.25%%. The processing fee is 1.5% of loan amount (Min ₹1,999). The minimum salary required is 25,000 and the minimum credit score required is 675+. Prepayment charges are 2% after 24 months. The maximum loan amount available is 20 lakh and the tenure can go up to 5 years years.
+
+HDFC Bank offers a Home Loan with an interest rate of 8.40% - 9.15%%. The processing fee is 0.50% of loan amount (Min ₹3,000). The minimum salary required is 35,000 and the minimum credit score required is 700+. Prepayment charges are Nil. The maximum loan amount available is 5 crore and the tenure can go up to 30 years years.
+
+ICICI Bank offers a Car Loan with an interest rate of 8.75% - 12.50%%. The processing fee is ₹2,999 flat. The minimum salary required is 20,000 and the minimum credit score required is 650+. Prepayment charges are 4% within first year. The maximum loan amount available is 50 lakh and the tenure can go up to 7 years years.
+
+Axis Bank offers a Education Loan with an interest rate of 9.25% - 13.75%%. The processing fee is 1.25% of loan amount. The minimum salary required is 18,000 and the minimum credit score required is Not Required. Prepayment charges are Nil. The maximum loan amount available is 1.5 crore and the tenure can go up to 15 years years.
+
+Bajaj Finserv offers a Personal Loan with an interest rate of 11.00% - 18.00%%. The processing fee is 2.5% of loan amount. The minimum salary required is 30,000 and the minimum credit score required is 685+. Prepayment charges are 5% on prepaid amount. The maximum loan amount available is 25 lakh and the tenure can go up to 4 years years.
+
+Kotak Mahindra Bank offers a Business Loan with an interest rate of 13.50% - 19.50%%. The processing fee is 2% of loan amount (Min ₹5,000). The minimum salary required is 50,000 and the minimum credit score required is 700+. Prepayment charges are 3% after 6 months. The maximum loan amount available is 75 lakh and the tenure can go up to 8 years years.
+
+IDFC First Bank offers a Gold Loan with an interest rate of 10.00% - 16.00%%. The processing fee is 0.75% of loan amount. The minimum salary required is 15,000 and the minimum credit score required is Not Required. Prepayment charges are 1.5% anytime. The maximum loan amount available is 20 lakh and the tenure can go up to 3 years years.
+
+Bank of Baroda offers a Home Loan with an interest rate of 8.25% - 9.50%%. The processing fee is 0.35% of loan amount (Min ₹2,500). The minimum salary required is 30,000 and the minimum credit score required is 685+. Prepayment charges are Nil. The maximum loan amount available is 3 crore and the tenure can go up to 25 years years.
+
+Yes Bank offers a Personal Loan with an interest rate of 12.00% - 18.50%%. The processing fee is 2% of loan amount (Min ₹2,500). The minimum salary required is 22,000 and the minimum credit score required is 670+. Prepayment charges are 4% within 2 years. The maximum loan amount available is 15 lakh and the tenure can go up to 5 years years.
+
+Punjab National Bank offers a Education Loan with an interest rate of 8.75% - 12.25%%. The processing fee is 1% of loan amount. The minimum salary required is 15,000 and the minimum credit score required is Not Required. Prepayment charges are Nil. The maximum loan amount available is 1 crore and the tenure can go up to 12 years years.
+
+AU Small Finance Bank offers a Car Loan with an interest rate of 10.75% - 15.25%%. The processing fee is 1.8% of loan amount (Min ₹2,000). The minimum salary required is 20,000 and the minimum credit score required is 660+. Prepayment charges are 3% first year. The maximum loan amount available is 30 lakh and the tenure can go up to 5 years years.
+
+IndusInd Bank offers a Personal Loan with an interest rate of 11.25% - 17.75%%. The processing fee is 2.25% of loan amount. The minimum salary required is 25,000 and the minimum credit score required is 675+. Prepayment charges are 5% on prepaid amount. The maximum loan amount available is 20 lakh and the tenure can go up to 4 years years.
+
+Canara Bank offers a Home Loan with an interest rate of 8.30% - 9.45%%. The processing fee is 0.40% of loan amount (Min ₹2,800). The minimum salary required is 28,000 and the minimum credit score required is 680+. Prepayment charges are Nil. The maximum loan amount available is 2.5 crore and the tenure can go up to 20 years years.
+
+Federal Bank offers a Business Loan with an interest rate of 14.00% - 20.00%%. The processing fee is 2.2% of loan amount. The minimum salary required is 45,000 and the minimum credit score required is 695+. Prepayment charges are 4% after 12 months. The maximum loan amount available is 50 lakh and the tenure can go up to 7 years years.
+
+Tata Capital offers a Personal Loan with an interest rate of 12.50% - 19.00%%. The processing fee is 2.75% of loan amount. The minimum salary required is 35,000 and the minimum credit score required is 690+. Prepayment charges are 5% anytime. The maximum loan amount available is 30 lakh and the tenure can go up to 6 years years.
+
+Union Bank of India offers a Home Loan with an interest rate of 8.50% - 9.75%%. The processing fee is 0.45% of loan amount. The minimum salary required is 25,000 and the minimum credit score required is 675+. Prepayment charges are Nil. The maximum loan amount available is 2 crore and the tenure can go up to 25 years years.
+
+IDBI Bank offers a Education Loan with an interest rate of 9.00% - 13.50%%. The processing fee is 1.1% of loan amount. The minimum salary required is 18,000 and the minimum credit score required is Not Required. Prepayment charges are Nil. The maximum loan amount available is 75 lakh and the tenure can go up to 10 years years.
+
+RBL Bank offers a Personal Loan with an interest rate of 13.00% - 18.50%%. The processing fee is 2.5% of loan amount (Min ₹3,000). The minimum salary required is 22,000 and the minimum credit score required is 665+. Prepayment charges are 4% within 18 months. The maximum loan amount available is 15 lakh and the tenure can go up to 5 years years.
+
+Bank of India offers a Gold Loan with an interest rate of 9.50% - 15.50%%. The processing fee is 0.5% of loan amount. The minimum salary required is 12,000 and the minimum credit score required is Not Required. Prepayment charges are 2% anytime. The maximum loan amount available is 15 lakh and the tenure can go up to 3 years years.
+
+South Indian Bank offers a Car Loan with an interest rate of 9.25% - 14.25%%. The processing fee is ₹2,500 flat. The minimum salary required is 18,000 and the minimum credit score required is 650+. Prepayment charges are 3.5% first year. The maximum loan amount available is 25 lakh and the tenure can go up to 6 years years.
+
+Central Bank of India offers a Home Loan with an interest rate of 8.35% - 9.60%%. The processing fee is 0.38% of loan amount. The minimum salary required is 22,000 and the minimum credit score required is 670+. Prepayment charges are Nil. The maximum loan amount available is 1.5 crore and the tenure can go up to 20 years years.
+
+Muthoot Finance offers a Gold Loan with an interest rate of 12.00% - 24.00%%. The processing fee is 1% of loan amount. The minimum salary required is 10,000 and the minimum credit score required is Not Required. Prepayment charges are 1.75% anytime. The maximum loan amount available is 1 crore and the tenure can go up to 5 years years.
+
+SBI Card offers a Personal Loan with an interest rate of 14.00% - 22.00%%. The processing fee is 3% of loan amount. The minimum salary required is 20,000 and the minimum credit score required is 660+. Prepayment charges are 6% anytime. The maximum loan amount available is 10 lakh and the tenure can go up to 3 years years.
+
+Indian Bank offers a Education Loan with an interest rate of 8.85% - 12.75%%. The processing fee is 1.15% of loan amount. The minimum salary required is 15,000 and the minimum credit score required is Not Required. Prepayment charges are Nil. The maximum loan amount available is 80 lakh and the tenure can go up to 12 years years.
+
+HSBC Bank offers a Home Loan with an interest rate of 8.00% - 9.25%%. The processing fee is 0.55% of loan amount (Min ₹4,000). The minimum salary required is 50,000 and the minimum credit score required is 720+. Prepayment charges are Nil. The maximum loan amount available is 5 crore and the tenure can go up to 30 years years.
+
+Standard Chartered offers a Personal Loan with an interest rate of 10.75% - 16.50%%. The processing fee is 2.25% of loan amount. The minimum salary required is 40,000 and the minimum credit score required is 700+. Prepayment charges are 3% after 6 months. The maximum loan amount available is 30 lakh and the tenure can go up to 5 years years.
+
+Karur Vysya Bank offers a Car Loan with an interest rate of 9.50% - 14.75%%. The processing fee is 1.5% of loan amount. The minimum salary required is 20,000 and the minimum credit score required is 655+. Prepayment charges are 4% first year. The maximum loan amount available is 35 lakh and the tenure can go up to 7 years years.
+
+Dhanlaxmi Bank offers a Business Loan with an interest rate of 15.00% - 21.00%%. The processing fee is 2.8% of loan amount. The minimum salary required is 40,000 and the minimum credit score required is 690+. Prepayment charges are 5% after 9 months. The maximum loan amount available is 40 lakh and the tenure can go up to 5 years years.
+
+UCO Bank offers a Home Loan with an interest rate of 8.45% - 9.70%%. The processing fee is 0.42% of loan amount. The minimum salary required is 23,000 and the minimum credit score required is 675+. Prepayment charges are Nil. The maximum loan amount available is 1.25 crore and the tenure can go up to 20 years years.
+
+Shriram Finance offers a Personal Loan with an interest rate of 15.00% - 24.00%%. The processing fee is 3% of loan amount. The minimum salary required is 15,000 and the minimum credit score required is 625+. Prepayment charges are 7% anytime. The maximum loan amount available is 5 lakh and the tenure can go up to 3 years years.
+
+Jana Small Finance Bank offers a Home Loan with an interest rate of 9.50% - 12.50%%. The processing fee is 1% of loan amount. The minimum salary required is 25,000 and the minimum credit score required is 650+. Prepayment charges are 2% after 2 years. The maximum loan amount available is 75 lakh and the tenure can go up to 15 years years.
+
+DCB Bank offers a Business Loan with an interest rate of 13.75% - 19.25%%. The processing fee is 2.3% of loan amount. The minimum salary required is 45,000 and the minimum credit score required is 695+. Prepayment charges are 4% after 6 months. The maximum loan amount available is 60 lakh and the tenure can go up to 7 years years.
+
+Bandhan Bank offers a Personal Loan with an interest rate of 11.50% - 17.25%%. The processing fee is 2% of loan amount. The minimum salary required is 18,000 and the minimum credit score required is 660+. Prepayment charges are 5% anytime. The maximum loan amount available is 10 lakh and the tenure can go up to 4 years years.
+
+Indian Overseas Bank offers a Education Loan with an interest rate of 9.25% - 13.25%%. The processing fee is 1.2% of loan amount. The minimum salary required is 15,000 and the minimum credit score required is Not Required. Prepayment charges are Nil. The maximum loan amount available is 60 lakh and the tenure can go up to 10 years years.
+
+Sundaram Finance offers a Car Loan with an interest rate of 10.25% - 15.75%%. The processing fee is 1.75% of loan amount. The minimum salary required is 22,000 and the minimum credit score required is 665+. Prepayment charges are 4% first year. The maximum loan amount available is 40 lakh and the tenure can go up to 6 years years.
+
+PNB Housing Finance offers a Home Loan with an interest rate of 8.55% - 10.25%%. The processing fee is 0.65% of loan amount. The minimum salary required is 30,000 and the minimum credit score required is 680+. Prepayment charges are 1% after 3 years. The maximum loan amount available is 3.5 crore and the tenure can go up to 25 years years.
+
+Aditya Birla Finance offers a Personal Loan with an interest rate of 12.75% - 18.25%%. The processing fee is 2.8% of loan amount. The minimum salary required is 35,000 and the minimum credit score required is 685+. Prepayment charges are 6% anytime. The maximum loan amount available is 25 lakh and the tenure can go up to 5 years years.
+
+SBM Bank offers a Gold Loan with an interest rate of 10.50% - 17.50%%. The processing fee is 0.8% of loan amount. The minimum salary required is 12,000 and the minimum credit score required is Not Required. Prepayment charges are 2% anytime. The maximum loan amount available is 25 lakh and the tenure can go up to 4 years years.
+
+L&T Finance offers a Business Loan with an interest rate of 14.50% - 20.50%%. The processing fee is 3% of loan amount. The minimum salary required is 50,000 and the minimum credit score required is 700+. Prepayment charges are 5% after 12 months. The maximum loan amount available is 1 crore and the tenure can go up to 8 years years.
+
+Andhra Bank offers a Home Loan with an interest rate of 8.60% - 9.85%%. The processing fee is 0.48% of loan amount. The minimum salary required is 24,000 and the minimum credit score required is 670+. Prepayment charges are Nil. The maximum loan amount available is 1.75 crore and the tenure can go up to 20 years years.
+
+Mahindra Finance offers a Personal Loan with an interest rate of 13.50% - 20.00%%. The processing fee is 3.5% of loan amount. The minimum salary required is 15,000 and the minimum credit score required is 630+. Prepayment charges are 8% anytime. The maximum loan amount available is 7 lakh and the tenure can go up to 3 years years.
+
+Karnataka Bank offers a Education Loan with an interest rate of 9.50% - 13.00%%. The processing fee is 1.3% of loan amount. The minimum salary required is 16,000 and the minimum credit score required is Not Required. Prepayment charges are Nil. The maximum loan amount available is 50 lakh and the tenure can go up to 8 years years.
+
+Vijaya Bank offers a Home Loan with an interest rate of 8.40% - 9.65%%. The processing fee is 0.44% of loan amount. The minimum salary required is 26,000 and the minimum credit score required is 675+. Prepayment charges are Nil. The maximum loan amount available is 1.8 crore and the tenure can go up to 25 years years.
+
+Fullerton India offers a Personal Loan with an interest rate of 14.25% - 22.50%%. The processing fee is 4% of loan amount. The minimum salary required is 20,000 and the minimum credit score required is 640+. Prepayment charges are 7% anytime. The maximum loan amount available is 15 lakh and the tenure can go up to 4 years years.
+
+Syndicate Bank offers a Car Loan with an interest rate of 9.75% - 14.50%%. The processing fee is 1.6% of loan amount. The minimum salary required is 21,000 and the minimum credit score required is 660+. Prepayment charges are 4% first year. The maximum loan amount available is 30 lakh and the tenure can go up to 6 years years.
+
+Repco Bank offers a Home Loan with an interest rate of 9.00% - 11.50%%. The processing fee is 0.75% of loan amount. The minimum salary required is 20,000 and the minimum credit score required is 650+. Prepayment charges are 1.5% after 2 years. The maximum loan amount available is 50 lakh and the tenure can go up to 15 years years.
+
+IIFL Finance offers a Gold Loan with an interest rate of 11.50% - 19.50%%. The processing fee is 1.25% of loan amount. The minimum salary required is 10,000 and the minimum credit score required is Not Required. Prepayment charges are 2.5% anytime. The maximum loan amount available is 2 crore and the tenure can go up to 7 years years.
+
+Saraswat Bank offers a Business Loan with an interest rate of 13.25% - 18.75%%. The processing fee is 2.4% of loan amount. The minimum salary required is 42,000 and the minimum credit score required is 690+. Prepayment charges are 4% after 9 months. The maximum loan amount available is 45 lakh and the tenure can go up to 6 years years.
+
+Citi Bank offers a Personal Loan with an interest rate of 10.25% - 15.75%%. The processing fee is 2% of loan amount. The minimum salary required is 45,000 and the minimum credit score required is 710+. Prepayment charges are 3% after 12 months. The maximum loan amount available is 40 lakh and the tenure can go up to 5 years years.
+
+Corporation Bank offers a Home Loan with an interest rate of 8.65% - 9.90%%. The processing fee is 0.50% of loan amount. The minimum salary required is 27,000 and the minimum credit score required is 680+. Prepayment charges are Nil. The maximum loan amount available is 1.6 crore and the tenure can go up to 20 years years.
+
+Edelweiss Finance offers a Personal Loan with an interest rate of 15.50% - 23.50%%. The processing fee is 4.5% of loan amount. The minimum salary required is 25,000 and the minimum credit score required is 635+. Prepayment charges are 9% anytime. The maximum loan amount available is 12 lakh and the tenure can go up to 3 years years.
+
+Allahabad Bank offers a Education Loan with an interest rate of 9.75% - 13.50%%. The processing fee is 1.4% of loan amount. The minimum salary required is 17,000 and the minimum credit score required is Not Required. Prepayment charges are Nil. The maximum loan amount available is 65 lakh and the tenure can go up to 10 years years.
+
+Deutsche Bank offers a Home Loan with an interest rate of 8.20% - 9.45%%. The processing fee is 0.60% of loan amount (Min ₹5,000). The minimum salary required is 60,000 and the minimum credit score required is 725+. Prepayment charges are Nil. The maximum loan amount available is 6 crore and the tenure can go up to 30 years years.
+
+Cholamandalam Finance offers a Car Loan with an interest rate of 10.50% - 16.00%%. The processing fee is 2% of loan amount. The minimum salary required is 25,000 and the minimum credit score required is 670+. Prepayment charges are 5% first year. The maximum loan amount available is 45 lakh and the tenure can go up to 7 years years.
+
+State Bank of Mysore offers a Home Loan with an interest rate of 8.55% - 9.80%%. The processing fee is 0.47% of loan amount. The minimum salary required is 25,000 and the minimum credit score required is 675+. Prepayment charges are Nil. The maximum loan amount available is 1.4 crore and the tenure can go up to 20 years years.
+
+HDB Financial Services offers a Personal Loan with an interest rate of 16.00% - 24.50%%. The processing fee is 5% of loan amount. The minimum salary required is 15,000 and the minimum credit score required is 620+. Prepayment charges are 10% anytime. The maximum loan amount available is 8 lakh and the tenure can go up to 2 years years.
+
+Bank of Maharashtra offers a Education Loan with an interest rate of 9.25% - 12.75%%. The processing fee is 1.1% of loan amount. The minimum salary required is 16,000 and the minimum credit score required is Not Required. Prepayment charges are Nil. The maximum loan amount available is 55 lakh and the tenure can go up to 9 years years.
+
+SBI offers a Car Loan with an interest rate of 8.50% - 12.00%%. The processing fee is ₹2,200 flat. The minimum salary required is 22,000 and the minimum credit score required is 650+. Prepayment charges are 3% within first year. The maximum loan amount available is 35 lakh and the tenure can go up to 7 years years.
+
+HDFC Bank offers a Business Loan with an interest rate of 12.75% - 18.25%%. The processing fee is 2.5% of loan amount. The minimum salary required is 55,000 and the minimum credit score required is 705+. Prepayment charges are 4% after 6 months. The maximum loan amount available is 2 crore and the tenure can go up to 10 years years.
+
+ICICI Bank offers a Gold Loan with an interest rate of 10.25% - 17.25%%. The processing fee is 0.9% of loan amount. The minimum salary required is 12,000 and the minimum credit score required is Not Required. Prepayment charges are 2% anytime. The maximum loan amount available is 30 lakh and the tenure can go up to 4 years years.
+
+Axis Bank offers a Personal Loan with an interest rate of 11.75% - 17.25%%. The processing fee is 2.25% of loan amount (Min ₹2,500). The minimum salary required is 28,000 and the minimum credit score required is 680+. Prepayment charges are 4% within 2 years. The maximum loan amount available is 25 lakh and the tenure can go up to 5 years years.
+
+Bajaj Finserv offers a Home Loan with an interest rate of 9.25% - 11.75%%. The processing fee is 1% of loan amount. The minimum salary required is 35,000 and the minimum credit score required is 675+. Prepayment charges are 2% after 3 years. The maximum loan amount available is 3 crore and the tenure can go up to 20 years years.
+
+Kotak Mahindra Bank offers a Education Loan with an interest rate of 9.50% - 14.00%%. The processing fee is 1.5% of loan amount. The minimum salary required is 20,000 and the minimum credit score required is Not Required. Prepayment charges are Nil. The maximum loan amount available is 90 lakh and the tenure can go up to 12 years years.
+
+IDFC First Bank offers a Personal Loan with an interest rate of 12.25% - 18.75%%. The processing fee is 2.75% of loan amount. The minimum salary required is 30,000 and the minimum credit score required is 685+. Prepayment charges are 5% on prepaid amount. The maximum loan amount available is 20 lakh and the tenure can go up to 4 years years.
+
+Bank of Baroda offers a Car Loan with an interest rate of 9.00% - 13.50%%. The processing fee is 1.4% of loan amount. The minimum salary required is 23,000 and the minimum credit score required is 660+. Prepayment charges are 4% first year. The maximum loan amount available is 40 lakh and the tenure can go up to 6 years years.
+
+Yes Bank offers a Business Loan with an interest rate of 14.50% - 20.50%%. The processing fee is 3% of loan amount. The minimum salary required is 48,000 and the minimum credit score required is 700+. Prepayment charges are 5% after 12 months. The maximum loan amount available is 85 lakh and the tenure can go up to 8 years years.
+
+Punjab National Bank offers a Gold Loan with an interest rate of 9.75% - 16.25%%. The processing fee is 0.7% of loan amount. The minimum salary required is 10,000 and the minimum credit score required is Not Required. Prepayment charges are 1.8% anytime. The maximum loan amount available is 20 lakh and the tenure can go up to 3 years years.
+
+AU Small Finance Bank offers a Personal Loan with an interest rate of 11.50% - 16.50%%. The processing fee is 1.9% of loan amount (Min ₹2,100). The minimum salary required is 21,000 and the minimum credit score required is 675+. Prepayment charges are 3.5% on prepaid amount. The maximum loan amount available is 17 lakh and the tenure can go up to 4 years years.
+
+IndusInd Bank offers a Home Loan with an interest rate of 8.75% - 10.00%%. The processing fee is 0.52% of loan amount. The minimum salary required is 32,000 and the minimum credit score required is 690+. Prepayment charges are Nil. The maximum loan amount available is 2.8 crore and the tenure can go up to 25 years years.
+
+Canara Bank offers a Education Loan with an interest rate of 9.15% - 13.25%%. The processing fee is 1.2% of loan amount. The minimum salary required is 17,000 and the minimum credit score required is Not Required. Prepayment charges are Nil. The maximum loan amount available is 70 lakh and the tenure can go up to 11 years years.
+
+Federal Bank offers a Personal Loan with an interest rate of 12.75% - 19.25%%. The processing fee is 2.85% of loan amount. The minimum salary required is 26,000 and the minimum credit score required is 680+. Prepayment charges are 5% within 2 years. The maximum loan amount available is 18 lakh and the tenure can go up to 5 years years.
+
+Tata Capital offers a Car Loan with an interest rate of 10.00% - 15.50%%. The processing fee is 1.85% of loan amount. The minimum salary required is 24,000 and the minimum credit score required is 665+. Prepayment charges are 4.5% first year. The maximum loan amount available is 38 lakh and the tenure can go up to 6 years years.
+
+Union Bank of India offers a Business Loan with an interest rate of 13.00% - 19.00%%. The processing fee is 2.6% of loan amount. The minimum salary required is 46,000 and the minimum credit score required is 695+. Prepayment charges are 4% after 9 months. The maximum loan amount available is 60 lakh and the tenure can go up to 7 years years.
+
+IDBI Bank offers a Gold Loan with an interest rate of 10.75% - 18.00%%. The processing fee is 1.1% of loan amount. The minimum salary required is 11,000 and the minimum credit score required is Not Required. Prepayment charges are 2.2% anytime. The maximum loan amount available is 35 lakh and the tenure can go up to 5 years years.
+
+RBL Bank offers a Personal Loan with an interest rate of 13.25% - 19.00%%. The processing fee is 2.6% of loan amount (Min ₹3,200). The minimum salary required is 23,000 and the minimum credit score required is 670+. Prepayment charges are 4.5% within 18 months. The maximum loan amount available is 16 lakh and the tenure can go up to 5 years years.
+
+Bank of India offers a Home Loan with an interest rate of 8.65% - 9.90%%. The processing fee is 0.45% of loan amount. The minimum salary required is 29,000 and the minimum credit score required is 680+. Prepayment charges are Nil. The maximum loan amount available is 2.2 crore and the tenure can go up to 20 years years.
+
+South Indian Bank offers a Education Loan with an interest rate of 9.60% - 13.75%%. The processing fee is 1.35% of loan amount. The minimum salary required is 18,000 and the minimum credit score required is Not Required. Prepayment charges are Nil. The maximum loan amount available is 65 lakh and the tenure can go up to 10 years years.
+
+Central Bank of India offers a Personal Loan with an interest rate of 11.25% - 16.75%%. The processing fee is 2.1% of loan amount. The minimum salary required is 24,000 and the minimum credit score required is 670+. Prepayment charges are 4% after 12 months. The maximum loan amount available is 15 lakh and the tenure can go up to 4 years years.
+
+Muthoot Finance offers a Business Loan with an interest rate of 15.50% - 22.50%%. The processing fee is 3.5% of loan amount. The minimum salary required is 35,000 and the minimum credit score required is 650+. Prepayment charges are 6% after 6 months. The maximum loan amount available is 30 lakh and the tenure can go up to 5 years years.
+
+SBI Card offers a Car Loan with an interest rate of 9.50% - 14.75%%. The processing fee is 1.65% of loan amount. The minimum salary required is 21,000 and the minimum credit score required is 660+. Prepayment charges are 4.5% first year. The maximum loan amount available is 32 lakh and the tenure can go up to 6 years years.
+
+Indian Bank offers a Home Loan with an interest rate of 8.70% - 9.95%%. The processing fee is 0.49% of loan amount. The minimum salary required is 27,000 and the minimum credit score required is 675+. Prepayment charges are Nil. The maximum loan amount available is 1.9 crore and the tenure can go up to 25 years years.
+
+HSBC Bank offers a Education Loan with an interest rate of 9.00% - 13.50%%. The processing fee is 1.4% of loan amount. The minimum salary required is 25,000 and the minimum credit score required is Not Required. Prepayment charges are Nil. The maximum loan amount available is 95 lakh and the tenure can go up to 12 years years.
+
+Standard Chartered offers a Gold Loan with an interest rate of 11.00% - 18.50%%. The processing fee is 1.15% of loan amount. The minimum salary required is 13,000 and the minimum credit score required is Not Required. Prepayment charges are 2.5% anytime. The maximum loan amount available is 40 lakh and the tenure can go up to 4 years years.
+
+Karur Vysya Bank offers a Personal Loan with an interest rate of 12.50% - 18.00%%. The processing fee is 2.4% of loan amount. The minimum salary required is 26,000 and the minimum credit score required is 675+. Prepayment charges are 5% within 2 years. The maximum loan amount available is 19 lakh and the tenure can go up to 5 years years.
+
+Dhanlaxmi Bank offers a Home Loan with an interest rate of 8.80% - 10.50%%. The processing fee is 0.58% of loan amount. The minimum salary required is 31,000 and the minimum credit score required is 685+. Prepayment charges are 1.2% after 2 years. The maximum loan amount available is 2.5 crore and the tenure can go up to 20 years years.
+
+UCO Bank offers a Business Loan with an interest rate of 13.75% - 19.75%%. The processing fee is 2.9% of loan amount. The minimum salary required is 47,000 and the minimum credit score required is 700+. Prepayment charges are 5% after 12 months. The maximum loan amount available is 55 lakh and the tenure can go up to 7 years years.
+
+Shriram Finance offers a Car Loan with an interest rate of 11.50% - 17.50%%. The processing fee is 2.25% of loan amount. The minimum salary required is 19,000 and the minimum credit score required is 645+. Prepayment charges are 5% first year. The maximum loan amount available is 28 lakh and the tenure can go up to 5 years years.
+
+Jana Small Finance Bank offers a Personal Loan with an interest rate of 12.00% - 17.50%%. The processing fee is 2.35% of loan amount. The minimum salary required is 20,000 and the minimum credit score required is 665+. Prepayment charges are 4.5% anytime. The maximum loan amount available is 14 lakh and the tenure can go up to 4 years years.
+
+DCB Bank offers a Home Loan with an interest rate of 8.90% - 10.25%%. The processing fee is 0.62% of loan amount. The minimum salary required is 33,000 and the minimum credit score required is 690+. Prepayment charges are Nil. The maximum loan amount available is 2.3 crore and the tenure can go up to 25 years years.
+
+Bandhan Bank offers a Education Loan with an interest rate of 9.85% - 14.25%%. The processing fee is 1.45% of loan amount. The minimum salary required is 19,000 and the minimum credit score required is Not Required. Prepayment charges are Nil. The maximum loan amount available is 60 lakh and the tenure can go up to 9 years years.
+
+Indian Overseas Bank offers a Gold Loan with an interest rate of 10.25% - 17.75%%. The processing fee is 1.05% of loan amount. The minimum salary required is 10,000 and the minimum credit score required is Not Required. Prepayment charges are 2% anytime. The maximum loan amount available is 25 lakh and the tenure can go up to 4 years years.
+
+Sundaram Finance offers a Personal Loan with an interest rate of 13.00% - 19.50%%. The processing fee is 3% of loan amount. The minimum salary required is 22,000 and the minimum credit score required is 670+. Prepayment charges are 6% anytime. The maximum loan amount available is 12 lakh and the tenure can go up to 3 years years.
+
+PNB Housing Finance offers a Business Loan with an interest rate of 14.25% - 20.25%%. The processing fee is 3.2% of loan amount. The minimum salary required is 52,000 and the minimum credit score required is 705+. Prepayment charges are 5% after 9 months. The maximum loan amount available is 70 lakh and the tenure can go up to 8 years years.
+
+Aditya Birla Finance offers a Home Loan with an interest rate of 9.50% - 11.25%%. The processing fee is 0.85% of loan amount. The minimum salary required is 34,000 and the minimum credit score required is 680+. Prepayment charges are 1.5% after 3 years. The maximum loan amount available is 2.8 crore and the tenure can go up to 20 years years.
+
+SBM Bank offers a Education Loan with an interest rate of 9.25% - 13.00%%. The processing fee is 1.3% of loan amount. The minimum salary required is 20,000 and the minimum credit score required is Not Required. Prepayment charges are Nil. The maximum loan amount available is 80 lakh and the tenure can go up to 11 years years.
+
+L&T Finance offers a Personal Loan with an interest rate of 14.75% - 21.50%%. The processing fee is 4% of loan amount. The minimum salary required is 28,000 and the minimum credit score required is 675+. Prepayment charges are 7% anytime. The maximum loan amount available is 22 lakh and the tenure can go up to 5 years years.
+
+Andhra Bank offers a Car Loan with an interest rate of 9.85% - 14.25%%. The processing fee is 1.7% of loan amount. The minimum salary required is 22,000 and the minimum credit score required is 665+. Prepayment charges are 4.5% first year. The maximum loan amount available is 36 lakh and the tenure can go up to 6 years years.
+
+Mahindra Finance offers a Home Loan with an interest rate of 9.75% - 12.00%%. The processing fee is 1.1% of loan amount. The minimum salary required is 26,000 and the minimum credit score required is 660+. Prepayment charges are 2% after 2 years. The maximum loan amount available is 1.2 crore and the tenure can go up to 15 years years.
+
+Karnataka Bank offers a Business Loan with an interest rate of 14.00% - 19.50%%. The processing fee is 3% of loan amount. The minimum salary required is 49,000 and the minimum credit score required is 700+. Prepayment charges are 5% after 12 months. The maximum loan amount available is 65 lakh and the tenure can go up to 7 years years.
+
+Vijaya Bank offers a Gold Loan with an interest rate of 10.50% - 18.25%%. The processing fee is 1.2% of loan amount. The minimum salary required is 11,000 and the minimum credit score required is Not Required. Prepayment charges are 2.25% anytime. The maximum loan amount available is 30 lakh and the tenure can go up to 4 years years.
+
+Fullerton India offers a Education Loan with an interest rate of 10.50% - 15.50%%. The processing fee is 1.8% of loan amount. The minimum salary required is 22,000 and the minimum credit score required is Not Required. Prepayment charges are 3% after 2 years. The maximum loan amount available is 50 lakh and the tenure can go up to 8 years years.
+
+Syndicate Bank offers a Personal Loan with an interest rate of 12.25% - 17.75%%. The processing fee is 2.55% of loan amount. The minimum salary required is 25,000 and the minimum credit score required is 680+. Prepayment charges are 5% within 2 years. The maximum loan amount available is 20 lakh and the tenure can go up to 5 years years.
+
+Repco Bank offers a Car Loan with an interest rate of 10.25% - 15.00%%. The processing fee is 1.9% of loan amount. The minimum salary required is 23,000 and the minimum credit score required is 670+. Prepayment charges are 4% first year. The maximum loan amount available is 42 lakh and the tenure can go up to 7 years years.
+
+IIFL Finance offers a Home Loan with an interest rate of 9.25% - 11.75%%. The processing fee is 0.95% of loan amount. The minimum salary required is 30,000 and the minimum credit score required is 675+. Prepayment charges are 1.8% after 3 years. The maximum loan amount available is 2.1 crore and the tenure can go up to 20 years years.
+
+Saraswat Bank offers a Personal Loan with an interest rate of 12.75% - 18.50%%. The processing fee is 2.85% of loan amount. The minimum salary required is 27,000 and the minimum credit score required is 685+. Prepayment charges are 5.5% anytime. The maximum loan amount available is 21 lakh and the tenure can go up to 4 years years.
+
+Citi Bank offers a Business Loan with an interest rate of 13.50% - 19.00%%. The processing fee is 3.1% of loan amount. The minimum salary required is 53,000 and the minimum credit score required is 710+. Prepayment charges are 5% after 12 months. The maximum loan amount available is 90 lakh and the tenure can go up to 9 years years.
+
+Corporation Bank offers a Gold Loan with an interest rate of 10.00% - 17.00%%. The processing fee is 0.95% of loan amount. The minimum salary required is 12,000 and the minimum credit score required is Not Required. Prepayment charges are 2% anytime. The maximum loan amount available is 22 lakh and the tenure can go up to 3 years years.
+
+Edelweiss Finance offers a Education Loan with an interest rate of 11.00% - 16.50%%. The processing fee is 2% of loan amount. The minimum salary required is 24,000 and the minimum credit score required is Not Required. Prepayment charges are 4% after 1 year. The maximum loan amount available is 45 lakh and the tenure can go up to 7 years years.
+
+Allahabad Bank offers a Personal Loan with an interest rate of 11.75% - 16.25%%. The processing fee is 2.15% of loan amount. The minimum salary required is 23,000 and the minimum credit score required is 670+. Prepayment charges are 4% after 12 months. The maximum loan amount available is 16 lakh and the tenure can go up to 4 years years.
+
+Deutsche Bank offers a Car Loan with an interest rate of 8.75% - 13.25%%. The processing fee is 1.5% of loan amount. The minimum salary required is 26,000 and the minimum credit score required is 675+. Prepayment charges are 3.5% first year. The maximum loan amount available is 48 lakh and the tenure can go up to 7 years years.
+
+Cholamandalam Finance offers a Home Loan with an interest rate of 9.00% - 11.50%%. The processing fee is 0.8% of loan amount. The minimum salary required is 32,000 and the minimum credit score required is 680+. Prepayment charges are 1.2% after 2 years. The maximum loan amount available is 2.6 crore and the tenure can go up to 25 years years.
+
+State Bank of Mysore offers a Business Loan with an interest rate of 13.25% - 18.75%%. The processing fee is 2.8% of loan amount. The minimum salary required is 51,000 and the minimum credit score required is 705+. Prepayment charges are 5% after 9 months. The maximum loan amount available is 75 lakh and the tenure can go up to 8 years years.
+
+HDB Financial Services offers a Gold Loan with an interest rate of 13.50% - 22.00%%. The processing fee is 1.5% of loan amount. The minimum salary required is 9,000 and the minimum credit score required is Not Required. Prepayment charges are 3% anytime. The maximum loan amount available is 15 lakh and the tenure can go up to 3 years years.
+
+Bank of Maharashtra offers a Personal Loan with an interest rate of 12.00% - 17.00%%. The processing fee is 2.25% of loan amount. The minimum salary required is 22,000 and the minimum credit score required is 665+. Prepayment charges are 4.5% within 2 years. The maximum loan amount available is 17 lakh and the tenure can go up to 5 years years.
+
+SBI offers a Two-Wheeler Loan with an interest rate of 8.75% - 14.25%%. The processing fee is ₹1,999 flat. The minimum salary required is 15,000 and the minimum credit score required is 625+. Prepayment charges are 3% within first year. The maximum loan amount available is 5 lakh and the tenure can go up to 5 years years.
+
+HDFC Bank offers a Loan Against Property with an interest rate of 9.50% - 12.50%%. The processing fee is 1.5% of loan amount. The minimum salary required is 45,000 and the minimum credit score required is 695+. Prepayment charges are 2% after 3 years. The maximum loan amount available is 3.5 crore and the tenure can go up to 15 years years.
+
+ICICI Bank offers a Consumer Durable Loan with an interest rate of 12.00% - 22.00%%. The processing fee is 3% of loan amount. The minimum salary required is 18,000 and the minimum credit score required is 600+. Prepayment charges are 5% anytime. The maximum loan amount available is 3 lakh and the tenure can go up to 2 years years.
+
+Axis Bank offers a Medical Loan with an interest rate of 11.25% - 16.75%%. The processing fee is 2% of loan amount. The minimum salary required is 20,000 and the minimum credit score required is 650+. Prepayment charges are Nil. The maximum loan amount available is 15 lakh and the tenure can go up to 3 years years.
+
+Bajaj Finserv offers a Home Improvement Loan with an interest rate of 13.50% - 19.50%%. The processing fee is 2.75% of loan amount. The minimum salary required is 25,000 and the minimum credit score required is 670+. Prepayment charges are 4% anytime. The maximum loan amount available is 25 lakh and the tenure can go up to 5 years years.
+
+Kotak Mahindra Bank offers a Loan Against Securities with an interest rate of 10.50% - 14.50%%. The processing fee is 1.25% of loan amount. The minimum salary required is 75,000 and the minimum credit score required is 720+. Prepayment charges are 1% after 1 year. The maximum loan amount available is 2 crore and the tenure can go up to 7 years years.
+
+IDFC First Bank offers a Farm Equipment Loan with an interest rate of 9.25% - 14.75%%. The processing fee is 1.5% of loan amount. The minimum salary required is 15,000 and the minimum credit score required is Not Required. Prepayment charges are Nil. The maximum loan amount available is 50 lakh and the tenure can go up to 8 years years.
+
+Bank of Baroda offers a MSME Loan with an interest rate of 10.25% - 15.25%%. The processing fee is 1.75% of loan amount. The minimum salary required is 35,000 and the minimum credit score required is 650+. Prepayment charges are 3% after 6 months. The maximum loan amount available is 2 crore and the tenure can go up to 10 years years.
+
+Yes Bank offers a Startup Loan with an interest rate of 14.00% - 21.00%%. The processing fee is 3.5% of loan amount. The minimum salary required is 40,000 and the minimum credit score required is 680+. Prepayment charges are 5% after 12 months. The maximum loan amount available is 1 crore and the tenure can go up to 7 years years.
+
+Punjab National Bank offers a Doctor Loan with an interest rate of 9.50% - 13.50%%. The processing fee is 1.2% of loan amount. The minimum salary required is 50,000 and the minimum credit score required is 675+. Prepayment charges are Nil. The maximum loan amount available is 75 lakh and the tenure can go up to 8 years years.
+
+AU Small Finance Bank offers a Used Car Loan with an interest rate of 12.50% - 18.50%%. The processing fee is 2.25% of loan amount. The minimum salary required is 18,000 and the minimum credit score required is 645+. Prepayment charges are 5% first year. The maximum loan amount available is 20 lakh and the tenure can go up to 5 years years.
+
+IndusInd Bank offers a Green Home Loan with an interest rate of 8.25% - 9.50%%. The processing fee is 0.4% of loan amount. The minimum salary required is 30,000 and the minimum credit score required is 690+. Prepayment charges are Nil. The maximum loan amount available is 3 crore and the tenure can go up to 25 years years.
+
+Canara Bank offers a Professional Loan with an interest rate of 10.75% - 15.75%%. The processing fee is 1.8% of loan amount. The minimum salary required is 40,000 and the minimum credit score required is 685+. Prepayment charges are 3% after 9 months. The maximum loan amount available is 50 lakh and the tenure can go up to 6 years years.
+
+Federal Bank offers a Construction Loan with an interest rate of 11.00% - 16.00%%. The processing fee is 2% of loan amount. The minimum salary required is 55,000 and the minimum credit score required is 700+. Prepayment charges are 4% after 12 months. The maximum loan amount available is 4 crore and the tenure can go up to 8 years years.
+
+Tata Capital offers a Wedding Loan with an interest rate of 13.25% - 20.25%%. The processing fee is 3% of loan amount. The minimum salary required is 22,000 and the minimum credit score required is 660+. Prepayment charges are 6% anytime. The maximum loan amount available is 30 lakh and the tenure can go up to 4 years years.
+
+Union Bank of India offers a Government Employee Loan with an interest rate of 9.00% - 12.00%%. The processing fee is 1% of loan amount. The minimum salary required is 20,000 and the minimum credit score required is 650+. Prepayment charges are Nil. The maximum loan amount available is 15 lakh and the tenure can go up to 7 years years.
+
+IDBI Bank offers a IT Professional Loan with an interest rate of 9.75% - 14.25%%. The processing fee is 1.35% of loan amount. The minimum salary required is 45,000 and the minimum credit score required is 680+. Prepayment charges are Nil. The maximum loan amount available is 60 lakh and the tenure can go up to 5 years years.
+
+RBL Bank offers a Renovation Loan with an interest rate of 12.75% - 18.25%%. The processing fee is 2.5% of loan amount. The minimum salary required is 25,000 and the minimum credit score required is 670+. Prepayment charges are 4% within 2 years. The maximum loan amount available is 20 lakh and the tenure can go up to 5 years years.
+
+Bank of India offers a Teacher Loan with an interest rate of 9.25% - 13.75%%. The processing fee is 1.15% of loan amount. The minimum salary required is 22,000 and the minimum credit score required is 655+. Prepayment charges are Nil. The maximum loan amount available is 25 lakh and the tenure can go up to 6 years years.
+
+South Indian Bank offers a Commercial Vehicle Loan with an interest rate of 10.00% - 15.50%%. The processing fee is 1.9% of loan amount. The minimum salary required is 30,000 and the minimum credit score required is 665+. Prepayment charges are 4% first year. The maximum loan amount available is 75 lakh and the tenure can go up to 7 years years.
+
+Central Bank of India offers a Corporate Loan with an interest rate of 8.75% - 12.25%%. The processing fee is 1.25% of loan amount. The minimum salary required is 1,00,000 and the minimum credit score required is 725+. Prepayment charges are 2% after 2 years. The maximum loan amount available is 10 crore and the tenure can go up to 10 years years.
+
+Muthoot Finance offers a Loan Against FD with an interest rate of 9.50% - 12.50%%. The processing fee is 0.75% of loan amount. The minimum salary required is 0 and the minimum credit score required is Not Required. Prepayment charges are Nil. The maximum loan amount available is 50 lakh and the tenure can go up to 5 years years.
+
+SBI Card offers a Travel Loan with an interest rate of 14.50% - 23.00%%. The processing fee is 4% of loan amount. The minimum salary required is 20,000 and the minimum credit score required is 650+. Prepayment charges are 7% anytime. The maximum loan amount available is 8 lakh and the tenure can go up to 3 years years.
+
+Indian Bank offers a Agriculture Loan with an interest rate of 7.50% - 11.50%%. The processing fee is 0.5% of loan amount. The minimum salary required is 10,000 and the minimum credit score required is Not Required. Prepayment charges are Nil. The maximum loan amount available is 25 lakh and the tenure can go up to 7 years years.
+
+HSBC Bank offers a NRI Home Loan with an interest rate of 8.15% - 9.40%%. The processing fee is 0.6% of loan amount. The minimum salary required is 1,50,000 and the minimum credit score required is 735+. Prepayment charges are Nil. The maximum loan amount available is 8 crore and the tenure can go up to 30 years years.
+
+Standard Chartered offers a Loan Against Insurance with an interest rate of 10.00% - 15.00%%. The processing fee is 1.5% of loan amount. The minimum salary required is 60,000 and the minimum credit score required is 710+. Prepayment charges are 2% after 1 year. The maximum loan amount available is 1.5 crore and the tenure can go up to 7 years years.
+
+Karur Vysya Bank offers a Working Capital Loan with an interest rate of 13.00% - 19.00%%. The processing fee is 2.8% of loan amount. The minimum salary required is 40,000 and the minimum credit score required is 690+. Prepayment charges are 5% after 6 months. The maximum loan amount available is 60 lakh and the tenure can go up to 5 years years.
+
+Dhanlaxmi Bank offers a Education Abroad Loan with an interest rate of 9.25% - 14.75%%. The processing fee is 1.65% of loan amount. The minimum salary required is 35,000 and the minimum credit score required is Not Required. Prepayment charges are Nil. The maximum loan amount available is 1.25 crore and the tenure can go up to 15 years years.
+
+UCO Bank offers a Defence Personnel Loan with an interest rate of 8.50% - 11.50%%. The processing fee is 0.9% of loan amount. The minimum salary required is 25,000 and the minimum credit score required is 650+. Prepayment charges are Nil. The maximum loan amount available is 30 lakh and the tenure can go up to 10 years years.
+
+Shriram Finance offers a Tractor Loan with an interest rate of 11.50% - 17.50%%. The processing fee is 2.25% of loan amount. The minimum salary required is 15,000 and the minimum credit score required is 620+. Prepayment charges are 5% first year. The maximum loan amount available is 15 lakh and the tenure can go up to 6 years years.
+
+Jana Small Finance Bank offers a Affordable Housing Loan with an interest rate of 9.00% - 11.00%%. The processing fee is 0.8% of loan amount. The minimum salary required is 20,000 and the minimum credit score required is 640+. Prepayment charges are 1% after 2 years. The maximum loan amount available is 50 lakh and the tenure can go up to 20 years years.
+
+DCB Bank offers a Loan Against Mutual Funds with an interest rate of 9.50% - 13.50%%. The processing fee is 1.2% of loan amount. The minimum salary required is 80,000 and the minimum credit score required is 715+. Prepayment charges are 1.5% after 6 months. The maximum loan amount available is 1.25 crore and the tenure can go up to 5 years years.
+
+Bandhan Bank offers a Micro Enterprise Loan with an interest rate of 14.00% - 20.00%%. The processing fee is 3% of loan amount. The minimum salary required is 12,000 and the minimum credit score required is 600+. Prepayment charges are 6% anytime. The maximum loan amount available is 5 lakh and the tenure can go up to 4 years years.
+
+Indian Overseas Bank offers a Rural Housing Loan with an interest rate of 8.00% - 10.50%%. The processing fee is 0.7% of loan amount. The minimum salary required is 15,000 and the minimum credit score required is 625+. Prepayment charges are Nil. The maximum loan amount available is 30 lakh and the tenure can go up to 15 years years.
+
+Sundaram Finance offers a Construction Equipment Loan with an interest rate of 12.50% - 18.50%%. The processing fee is 2.5% of loan amount. The minimum salary required is 35,000 and the minimum credit score required is 670+. Prepayment charges are 5% first year. The maximum loan amount available is 1 crore and the tenure can go up to 8 years years.
+
+PNB Housing Finance offers a Loan Against Commercial Property with an interest rate of 9.75% - 12.25%%. The processing fee is 1.5% of loan amount. The minimum salary required is 60,000 and the minimum credit score required is 700+. Prepayment charges are 2% after 3 years. The maximum loan amount available is 5 crore and the tenure can go up to 15 years years.
+
+Aditya Birla Finance offers a Vacation Loan with an interest rate of 15.00% - 22.00%%. The processing fee is 4% of loan amount. The minimum salary required is 25,000 and the minimum credit score required is 660+. Prepayment charges are 8% anytime. The maximum loan amount available is 12 lakh and the tenure can go up to 3 years years.
+
+SBM Bank offers a Loan Against Shares with an interest rate of 10.50% - 15.50%%. The processing fee is 1.75% of loan amount. The minimum salary required is 1,00,000 and the minimum credit score required is 725+. Prepayment charges are 2% after 6 months. The maximum loan amount available is 2 crore and the tenure can go up to 3 years years.
+
+L&T Finance offers a Loan Against Property for Professionals with an interest rate of 11.50% - 16.50%%. The processing fee is 2.25% of loan amount. The minimum salary required is 50,000 and the minimum credit score required is 695+. Prepayment charges are 3% after 1 year. The maximum loan amount available is 3 crore and the tenure can go up to 12 years years.
+
+Andhra Bank offers a Kisan Credit Card with an interest rate of 7.00% - 10.50%%. The processing fee is 0.25% of loan amount. The minimum salary required is 5,000 and the minimum credit score required is Not Required. Prepayment charges are Nil. The maximum loan amount available is 10 lakh and the tenure can go up to 5 years years.
+
+Mahindra Finance offers a Loan Against Gold Jewellery with an interest rate of 12.00% - 20.00%%. The processing fee is 1.5% of loan amount. The minimum salary required is 10,000 and the minimum credit score required is Not Required. Prepayment charges are 3% anytime. The maximum loan amount available is 50 lakh and the tenure can go up to 5 years years.
+
+Karnataka Bank offers a Education Loan for Abroad Studies with an interest rate of 9.50% - 15.50%%. The processing fee is 1.8% of loan amount. The minimum salary required is 30,000 and the minimum credit score required is Not Required. Prepayment charges are Nil. The maximum loan amount available is 1.5 crore and the tenure can go up to 12 years years.
+
+Vijaya Bank offers a Loan Against NSC with an interest rate of 8.50% - 12.00%%. The processing fee is 0.8% of loan amount. The minimum salary required is 0 and the minimum credit score required is Not Required. Prepayment charges are Nil. The maximum loan amount available is 25 lakh and the tenure can go up to 6 years years.
+
+Fullerton India offers a Flexi Personal Loan with an interest rate of 13.50% - 21.50%%. The processing fee is 3.5% of loan amount. The minimum salary required is 20,000 and the minimum credit score required is 650+. Prepayment charges are 7% anytime. The maximum loan amount available is 15 lakh and the tenure can go up to 4 years years.
+
+Syndicate Bank offers a Loan Against PPF with an interest rate of 8.00% - 11.50%%. The processing fee is 0.6% of loan amount. The minimum salary required is 0 and the minimum credit score required is Not Required. Prepayment charges are Nil. The maximum loan amount available is 15 lakh and the tenure can go up to 5 years years.
+
+Repco Bank offers a Loan Against Bonds with an interest rate of 9.00% - 13.00%%. The processing fee is 1% of loan amount. The minimum salary required is 50,000 and the minimum credit score required is 680+. Prepayment charges are 1.5% after 6 months. The maximum loan amount available is 75 lakh and the tenure can go up to 5 years years.
+
+IIFL Finance offers a Loan Against Mutual Funds with an interest rate of 10.00% - 14.50%%. The processing fee is 1.25% of loan amount. The minimum salary required is 70,000 and the minimum credit score required is 705+. Prepayment charges are 2% after 3 months. The maximum loan amount available is 1 crore and the tenure can go up to 4 years years.
+
+Saraswat Bank offers a Doctor Practice Loan with an interest rate of 10.50% - 15.50%%. The processing fee is 1.75% of loan amount. The minimum salary required is 45,000 and the minimum credit score required is 685+. Prepayment charges are 3% after 9 months. The maximum loan amount available is 60 lakh and the tenure can go up to 7 years years.
+
+Citi Bank offers a Loan Against Credit Card with an interest rate of 14.00% - 24.00%%. The processing fee is 5% of loan amount. The minimum salary required is 30,000 and the minimum credit score required is 650+. Prepayment charges are 9% anytime. The maximum loan amount available is 10 lakh and the tenure can go up to 2 years years.
+
+Corporation Bank offers a Loan Against Post Office Schemes with an interest rate of 8.25% - 12.25%%. The processing fee is 0.9% of loan amount. The minimum salary required is 0 and the minimum credit score required is Not Required. Prepayment charges are Nil. The maximum loan amount available is 20 lakh and the tenure can go up to 5 years years.
+
+Edelweiss Finance offers a Loan Against ESOP with an interest rate of 12.50% - 18.50%%. The processing fee is 2.5% of loan amount. The minimum salary required is 1,50,000 and the minimum credit score required is 730+. Prepayment charges are 3% after 6 months. The maximum loan amount available is 3 crore and the tenure can go up to 5 years years.
+
+Allahabad Bank offers a Loan Against LIC Policy with an interest rate of 9.50% - 13.50%%. The processing fee is 1.1% of loan amount. The minimum salary required is 0 and the minimum credit score required is Not Required. Prepayment charges are Nil. The maximum loan amount available is 30 lakh and the tenure can go up to 7 years years.
+
+Deutsche Bank offers a Loan Against Stocks with an interest rate of 9.00% - 14.00%%. The processing fee is 1.5% of loan amount. The minimum salary required is 2,00,000 and the minimum credit score required is 740+. Prepayment charges are 2% after 3 months. The maximum loan amount available is 5 crore and the tenure can go up to 3 years years.
+
+Cholamandalam Finance offers a Loan Against Rental Income with an interest rate of 11.00% - 16.00%%. The processing fee is 2% of loan amount. The minimum salary required is 40,000 and the minimum credit score required is 690+. Prepayment charges are 4% after 12 months. The maximum loan amount available is 2.5 crore and the tenure can go up to 10 years years.
+
+State Bank of Mysore offers a Loan Against KVP with an interest rate of 8.50% - 12.00%%. The processing fee is 0.85% of loan amount. The minimum salary required is 0 and the minimum credit score required is Not Required. Prepayment charges are Nil. The maximum loan amount available is 15 lakh and the tenure can go up to 5 years years.
+
+HDB Financial Services offers a Loan Against Fixed Deposit with an interest rate of 10.50% - 15.50%%. The processing fee is 1.25% of loan amount. The minimum salary required is 0 and the minimum credit score required is Not Required. Prepayment charges are Nil. The maximum loan amount available is 75 lakh and the tenure can go up to 7 years years.
+
+Bank of Maharashtra offers a Loan Against NSC Certificates with an interest rate of 8.75% - 12.25%%. The processing fee is 0.95% of loan amount. The minimum salary required is 0 and the minimum credit score required is Not Required. Prepayment charges are Nil. The maximum loan amount available is 20 lakh and the tenure can go up to 6 years years.
+
+SBI offers a Loan Against Sovereign Gold Bonds with an interest rate of 7.50% - 10.50%%. The processing fee is 0.5% of loan amount. The minimum salary required is 0 and the minimum credit score required is Not Required. Prepayment charges are Nil. The maximum loan amount available is 50 lakh and the tenure can go up to 5 years years.
+
+HDFC Bank offers a Loan Against ULIP with an interest rate of 9.25% - 13.75%%. The processing fee is 1.35% of loan amount. The minimum salary required is 0 and the minimum credit score required is Not Required. Prepayment charges are 1.5% after 6 months. The maximum loan amount available is 1 crore and the tenure can go up to 7 years years.
+
+ICICI Bank offers a Loan Against Endowment Policy with an interest rate of 9.75% - 14.25%%. The processing fee is 1.45% of loan amount. The minimum salary required is 0 and the minimum credit score required is Not Required. Prepayment charges are Nil. The maximum loan amount available is 45 lakh and the tenure can go up to 6 years years.
+
+Axis Bank offers a Loan Against Recurring Deposit with an interest rate of 10.25% - 14.75%%. The processing fee is 1.55% of loan amount. The minimum salary required is 0 and the minimum credit score required is Not Required. Prepayment charges are Nil. The maximum loan amount available is 30 lakh and the tenure can go up to 5 years years.
+
+Bajaj Finserv offers a Loan Against Term Insurance with an interest rate of 12.00% - 17.00%%. The processing fee is 2% of loan amount. The minimum salary required is 0 and the minimum credit score required is Not Required. Prepayment charges are 2.5% anytime. The maximum loan amount available is 60 lakh and the tenure can go up to 7 years years.
+
+Kotak Mahindra Bank offers a Loan Against Sukanya Samriddhi with an interest rate of 8.00% - 11.00%%. The processing fee is 0.7% of loan amount. The minimum salary required is 0 and the minimum credit score required is Not Required. Prepayment charges are Nil. The maximum loan amount available is 15 lakh and the tenure can go up to 5 years years.
+
+IDFC First Bank offers a Loan Against Senior Citizen Savings Scheme with an interest rate of 8.50% - 12.50%%. The processing fee is 0.9% of loan amount. The minimum salary required is 0 and the minimum credit score required is Not Required. Prepayment charges are Nil. The maximum loan amount available is 25 lakh and the tenure can go up to 5 years years.
+
+Bank of Baroda offers a Loan Against Monthly Income Scheme with an interest rate of 9.00% - 13.00%%. The processing fee is 1% of loan amount. The minimum salary required is 0 and the minimum credit score required is Not Required. Prepayment charges are Nil. The maximum loan amount available is 20 lakh and the tenure can go up to 5 years years.
+
+Yes Bank offers a Loan Against Corporate Bonds with an interest rate of 9.50% - 14.00%%. The processing fee is 1.3% of loan amount. The minimum salary required is 1,50,000 and the minimum credit score required is 720+. Prepayment charges are 2% after 3 months. The maximum loan amount available is 3 crore and the tenure can go up to 5 years years.
+
+Punjab National Bank offers a Loan Against Infrastructure Bonds with an interest rate of 8.75% - 12.75%%. The processing fee is 1.1% of loan amount. The minimum salary required is 1,00,000 and the minimum credit score required is 710+. Prepayment charges are 1.5% after 6 months. The maximum loan amount available is 2 crore and the tenure can go up to 7 years years.
+
+AU Small Finance Bank offers a Loan Against Government Securities with an interest rate of 8.25% - 11.75%%. The processing fee is 0.8% of loan amount. The minimum salary required is 75,000 and the minimum credit score required is 700+. Prepayment charges are 1% after 1 year. The maximum loan amount available is 1.5 crore and the tenure can go up to 5 years years.
+
+IndusInd Bank offers a Loan Against Municipal Bonds with an interest rate of 9.25% - 13.25%%. The processing fee is 1.2% of loan amount. The minimum salary required is 80,000 and the minimum credit score required is 705+. Prepayment charges are 1.8% after 9 months. The maximum loan amount available is 1.75 crore and the tenure can go up to 6 years years.
+
+Canara Bank offers a Loan Against Tax-Free Bonds with an interest rate of 8.50% - 12.00%%. The processing fee is 0.95% of loan amount. The minimum salary required is 70,000 and the minimum credit score required is 695+. Prepayment charges are 1.2% after 6 months. The maximum loan amount available is 1.25 crore and the tenure can go up to 5 years years.
+
+Federal Bank offers a Loan Against Convertible Bonds with an interest rate of 10.00% - 15.00%%. The processing fee is 1.5% of loan amount. The minimum salary required is 90,000 and the minimum credit score required is 715+. Prepayment charges are 2.5% after 12 months. The maximum loan amount available is 2.25 crore and the tenure can go up to 7 years years.
+
+Tata Capital offers a Loan Against Zero Coupon Bonds with an interest rate of 10.50% - 15.50%%. The processing fee is 1.75% of loan amount. The minimum salary required is 85,000 and the minimum credit score required is 710+. Prepayment charges are 3% after 9 months. The maximum loan amount available is 1.8 crore and the tenure can go up to 6 years years.
+
+Union Bank of India offers a Loan Against Junk Bonds with an interest rate of 12.00% - 18.00%%. The processing fee is 2.5% of loan amount. The minimum salary required is 95,000 and the minimum credit score required is 690+. Prepayment charges are 4% after 6 months. The maximum loan amount available is 1 crore and the tenure can go up to 5 years years.
+
+IDBI Bank offers a Loan Against Green Bonds with an interest rate of 9.00% - 13.50%%. The processing fee is 1.15% of loan amount. The minimum salary required is 65,000 and the minimum credit score required is 685+. Prepayment charges are 1.5% after 3 months. The maximum loan amount available is 90 lakh and the tenure can go up to 7 years years.
+
+RBL Bank offers a Loan Against Masala Bonds with an interest rate of 10.25% - 15.25%%. The processing fee is 1.65% of loan amount. The minimum salary required is 1,10,000 and the minimum credit score required is 725+. Prepayment charges are 2.8% after 12 months. The maximum loan amount available is 3.5 crore and the tenure can go up to 8 years years.
+
+Bank of India offers a Loan Against Yankee Bonds with an interest rate of 9.75% - 14.75%%. The processing fee is 1.45% of loan amount. The minimum salary required is 1,25,000 and the minimum credit score required is 730+. Prepayment charges are 2.2% after 9 months. The maximum loan amount available is 4 crore and the tenure can go up to 7 years years.
+
+South Indian Bank offers a Loan Against Samurai Bonds with an interest rate of 8.75% - 13.25%%. The processing fee is 1.05% of loan amount. The minimum salary required is 1,00,000 and the minimum credit score required is 715+. Prepayment charges are 1.8% after 6 months. The maximum loan amount available is 3 crore and the tenure can go up to 6 years years.
+
+Central Bank of India offers a Loan Against Bulldog Bonds with an interest rate of 9.25% - 14.25%%. The processing fee is 1.3% of loan amount. The minimum salary required is 1,15,000 and the minimum credit score required is 720+. Prepayment charges are 2% after 12 months. The maximum loan amount available is 3.25 crore and the tenure can go up to 7 years years.
+
+Muthoot Finance offers a Loan Against Kangaroo Bonds with an interest rate of 10.75% - 16.25%%. The processing fee is 1.95% of loan amount. The minimum salary required is 1,20,000 and the minimum credit score required is 710+. Prepayment charges are 3.5% after 9 months. The maximum loan amount available is 2.75 crore and the tenure can go up to 6 years years.
+
+SBI offers a Personal Loan for Pensioners with an interest rate of 10.75% - 14.25%%. The processing fee is 1.2% of loan amount. The minimum salary required is 15,000 (pension) and the minimum credit score required is 650+. Prepayment charges are 2% after 1 year. The maximum loan amount available is 10 lakh and the tenure can go up to 5 years years.
+
+HDFC Bank offers a Loan Against Rental Receivables with an interest rate of 9.25% - 12.75%%. The processing fee is 1.5% of loan amount. The minimum salary required is 50,000 and the minimum credit score required is 695+. Prepayment charges are 2.5% after 6 months. The maximum loan amount available is 2 crore and the tenure can go up to 7 years years.
+
+ICICI Bank offers a EV Car Loan with an interest rate of 7.50% - 10.50%%. The processing fee is ₹2,000 flat. The minimum salary required is 25,000 and the minimum credit score required is 660+. Prepayment charges are Nil. The maximum loan amount available is 30 lakh and the tenure can go up to 8 years years.
+
+Axis Bank offers a Medical Equipment Loan with an interest rate of 10.00% - 15.00%%. The processing fee is 1.8% of loan amount. The minimum salary required is 35,000 and the minimum credit score required is 670+. Prepayment charges are 3% after 9 months. The maximum loan amount available is 1.5 crore and the tenure can go up to 6 years years.
+
+Bajaj Finserv offers a Loan Against Future Salary with an interest rate of 13.00% - 19.00%%. The processing fee is 3% of loan amount. The minimum salary required is 0 (for freshers) and the minimum credit score required is 600+. Prepayment charges are 5% anytime. The maximum loan amount available is 8 lakh and the tenure can go up to 3 years years.
+
+Kotak Mahindra Bank offers a Co-working Space Loan with an interest rate of 11.50% - 16.50%%. The processing fee is 2.25% of loan amount. The minimum salary required is 40,000 and the minimum credit score required is 685+. Prepayment charges are 4% after 12 months. The maximum loan amount available is 50 lakh and the tenure can go up to 5 years years.
+
+IDFC First Bank offers a Organic Farming Loan with an interest rate of 8.50% - 12.50%%. The processing fee is 1% of loan amount. The minimum salary required is 12,000 and the minimum credit score required is Not Required. Prepayment charges are Nil. The maximum loan amount available is 30 lakh and the tenure can go up to 7 years years.
+
+Bank of Baroda offers a Startup Working Capital with an interest rate of 12.00% - 18.00%%. The processing fee is 2.5% of loan amount. The minimum salary required is 30,000 and the minimum credit score required is 680+. Prepayment charges are 5% after 6 months. The maximum loan amount available is 75 lakh and the tenure can go up to 4 years years.
+
+Yes Bank offers a Film Production Loan with an interest rate of 14.50% - 22.00%%. The processing fee is 4% of loan amount. The minimum salary required is 1,00,000 and the minimum credit score required is 700+. Prepayment charges are 7% anytime. The maximum loan amount available is 5 crore and the tenure can go up to 3 years years.
+
+Punjab National Bank offers a Padhao Kamao Education Loan with an interest rate of 8.00% - 11.50%%. The processing fee is 0.75% of loan amount. The minimum salary required is 15,000 and the minimum credit score required is Not Required. Prepayment charges are Nil. The maximum loan amount available is 20 lakh and the tenure can go up to 8 years years.
+
+AU Small Finance Bank offers a Used Commercial Vehicle Loan with an interest rate of 13.50% - 19.50%%. The processing fee is 2.75% of loan amount. The minimum salary required is 25,000 and the minimum credit score required is 650+. Prepayment charges are 6% first year. The maximum loan amount available is 50 lakh and the tenure can go up to 5 years years.
+
+IndusInd Bank offers a Green Business Loan with an interest rate of 9.00% - 13.00%%. The processing fee is 1.25% of loan amount. The minimum salary required is 45,000 and the minimum credit score required is 690+. Prepayment charges are 2% after 2 years. The maximum loan amount available is 1.25 crore and the tenure can go up to 8 years years.
+
+Canara Bank offers a Fisheries Loan with an interest rate of 7.75% - 11.25%%. The processing fee is 0.8% of loan amount. The minimum salary required is 10,000 and the minimum credit score required is Not Required. Prepayment charges are Nil. The maximum loan amount available is 15 lakh and the tenure can go up to 6 years years.
+
+Federal Bank offers a Coastal Area Housing Loan with an interest rate of 8.25% - 10.75%%. The processing fee is 0.9% of loan amount. The minimum salary required is 20,000 and the minimum credit score required is 660+. Prepayment charges are 1.5% after 3 years. The maximum loan amount available is 75 lakh and the tenure can go up to 20 years years.
+
+Tata Capital offers a AI Startup Loan with an interest rate of 11.00% - 16.00%%. The processing fee is 2% of loan amount. The minimum salary required is 50,000 and the minimum credit score required is 700+. Prepayment charges are 3% after 1 year. The maximum loan amount available is 2 crore and the tenure can go up to 5 years years.
+
+Union Bank of India offers a Handicraft Artisan Loan with an interest rate of 8.50% - 12.00%%. The processing fee is 1% of loan amount. The minimum salary required is 12,000 and the minimum credit score required is 625+. Prepayment charges are Nil. The maximum loan amount available is 10 lakh and the tenure can go up to 5 years years.
+
+IDBI Bank offers a Space Tech Loan with an interest rate of 10.50% - 15.50%%. The processing fee is 1.75% of loan amount. The minimum salary required is 75,000 and the minimum credit score required is 715+. Prepayment charges are 4% after 18 months. The maximum loan amount available is 3 crore and the tenure can go up to 7 years years.
+
+RBL Bank offers a Cloud Kitchen Loan with an interest rate of 13.00% - 19.00%%. The processing fee is 3% of loan amount. The minimum salary required is 30,000 and the minimum credit score required is 675+. Prepayment charges are 5% within 2 years. The maximum loan amount available is 40 lakh and the tenure can go up to 4 years years.
+
+Bank of India offers a Textile Machinery Loan with an interest rate of 9.75% - 14.25%%. The processing fee is 1.5% of loan amount. The minimum salary required is 28,000 and the minimum credit score required is 665+. Prepayment charges are 4% first year. The maximum loan amount available is 1.2 crore and the tenure can go up to 8 years years.
+
+South Indian Bank offers a Pharmacy Setup Loan with an interest rate of 10.25% - 15.75%%. The processing fee is 1.85% of loan amount. The minimum salary required is 32,000 and the minimum credit score required is 670+. Prepayment charges are 4.5% after 12 months. The maximum loan amount available is 60 lakh and the tenure can go up to 6 years years.
+
+Central Bank of India offers a Solar Panel Loan with an interest rate of 8.00% - 11.00%%. The processing fee is 0.7% of loan amount. The minimum salary required is 18,000 and the minimum credit score required is 640+. Prepayment charges are Nil. The maximum loan amount available is 25 lakh and the tenure can go up to 10 years years.
+
+Muthoot Finance offers a Loan Against Silver with an interest rate of 12.50% - 20.50%%. The processing fee is 1.8% of loan amount. The minimum salary required is 8,000 and the minimum credit score required is Not Required. Prepayment charges are 3% anytime. The maximum loan amount available is 20 lakh and the tenure can go up to 4 years years.
+
+SBI Card offers a Fitness Equipment Loan with an interest rate of 15.00% - 24.00%%. The processing fee is 4.5% of loan amount. The minimum salary required is 15,000 and the minimum credit score required is 630+. Prepayment charges are 8% anytime. The maximum loan amount available is 5 lakh and the tenure can go up to 3 years years.
+
+Indian Bank offers a Sericulture Loan with an interest rate of 7.25% - 10.75%%. The processing fee is 0.6% of loan amount. The minimum salary required is 9,000 and the minimum credit score required is Not Required. Prepayment charges are Nil. The maximum loan amount available is 12 lakh and the tenure can go up to 5 years years.
+
+HSBC Bank offers a NRI Business Loan with an interest rate of 9.50% - 14.00%%. The processing fee is 1.65% of loan amount. The minimum salary required is 2,00,000 and the minimum credit score required is 730+. Prepayment charges are 3% after 1 year. The maximum loan amount available is 5 crore and the tenure can go up to 8 years years.
+
+Standard Chartered offers a Loan Against Crypto Assets with an interest rate of 18.00% - 28.00%%. The processing fee is 6% of loan amount. The minimum salary required is 1,50,000 and the minimum credit score required is 750+. Prepayment charges are 10% anytime. The maximum loan amount available is 50 lakh and the tenure can go up to 2 years years.
+
+Karur Vysya Bank offers a Pet Clinic Loan with an interest rate of 11.00% - 16.00%%. The processing fee is 2% of loan amount. The minimum salary required is 35,000 and the minimum credit score required is 680+. Prepayment charges are 4% after 9 months. The maximum loan amount available is 45 lakh and the tenure can go up to 6 years years.
+
+Dhanlaxmi Bank offers a Drone Purchase Loan with an interest rate of 12.50% - 17.50%%. The processing fee is 2.25% of loan amount. The minimum salary required is 40,000 and the minimum credit score required is 690+. Prepayment charges are 5% first year. The maximum loan amount available is 30 lakh and the tenure can go up to 5 years years.
+
+UCO Bank offers a Tribal Development Loan with an interest rate of 7.00% - 10.00%%. The processing fee is 0.5% of loan amount. The minimum salary required is 8,000 and the minimum credit score required is Not Required. Prepayment charges are Nil. The maximum loan amount available is 8 lakh and the tenure can go up to 7 years years.
+
+Shriram Finance offers a Loan Against Diamond Jewelry with an interest rate of 14.00% - 23.00%%. The processing fee is 2.5% of loan amount. The minimum salary required is 10,000 and the minimum credit score required is Not Required. Prepayment charges are 4% anytime. The maximum loan amount available is 15 lakh and the tenure can go up to 3 years years.
+
+Jana Small Finance Bank offers a EV Charging Station Loan with an interest rate of 9.50% - 13.50%%. The processing fee is 1.35% of loan amount. The minimum salary required is 30,000 and the minimum credit score required is 665+. Prepayment charges are 2.5% after 2 years. The maximum loan amount available is 40 lakh and the tenure can go up to 7 years years.
+
+DCB Bank offers a Biotech Research Loan with an interest rate of 10.00% - 14.50%%. The processing fee is 1.6% of loan amount. The minimum salary required is 80,000 and the minimum credit score required is 720+. Prepayment charges are 3% after 18 months. The maximum loan amount available is 2.5 crore and the tenure can go up to 8 years years.
+
+Bandhan Bank offers a Microfinance Group Loan with an interest rate of 16.00% - 25.00%%. The processing fee is 5% of loan amount. The minimum salary required is 6,000 and the minimum credit score required is 550+. Prepayment charges are 10% anytime. The maximum loan amount available is 2 lakh and the tenure can go up to 2 years years.
+
+Indian Overseas Bank offers a Handloom Weaver Loan with an interest rate of 7.50% - 11.00%%. The processing fee is 0.65% of loan amount. The minimum salary required is 7,000 and the minimum credit score required is Not Required. Prepayment charges are Nil. The maximum loan amount available is 9 lakh and the tenure can go up to 6 years years.
+
+Sundaram Finance offers a Forklift Purchase Loan with an interest rate of 11.50% - 16.50%%. The processing fee is 2% of loan amount. The minimum salary required is 30,000 and the minimum credit score required is 670+. Prepayment charges are 4.5% first year. The maximum loan amount available is 35 lakh and the tenure can go up to 5 years years.
+
+PNB Housing Finance offers a Coal Mining Area Home Loan with an interest rate of 9.25% - 12.75%%. The processing fee is 1.4% of loan amount. The minimum salary required is 22,000 and the minimum credit score required is 660+. Prepayment charges are 2% after 3 years. The maximum loan amount available is 60 lakh and the tenure can go up to 20 years years.
+
+Aditya Birla Finance offers a E-sports Arena Loan with an interest rate of 14.50% - 21.50%%. The processing fee is 4% of loan amount. The minimum salary required is 45,000 and the minimum credit score required is 675+. Prepayment charges are 7% anytime. The maximum loan amount available is 75 lakh and the tenure can go up to 4 years years.
+
+SBM Bank offers a Loan Against Sovereign Bonds with an interest rate of 7.75% - 11.25%%. The processing fee is 0.85% of loan amount. The minimum salary required is 50,000 and the minimum credit score required is 700+. Prepayment charges are 1% after 6 months. The maximum loan amount available is 1 crore and the tenure can go up to 5 years years.
+
+L&T Finance offers a Data Center Equipment Loan with an interest rate of 11.25% - 16.25%%. The processing fee is 2.1% of loan amount. The minimum salary required is 1,00,000 and the minimum credit score required is 715+. Prepayment charges are 4% after 12 months. The maximum loan amount available is 3 crore and the tenure can go up to 7 years years.
+
+Andhra Bank offers a Aquaculture Loan with an interest rate of 8.00% - 12.00%%. The processing fee is 0.9% of loan amount. The minimum salary required is 11,000 and the minimum credit score required is Not Required. Prepayment charges are Nil. The maximum loan amount available is 18 lakh and the tenure can go up to 6 years years.
+
+Mahindra Finance offers a Loan Against Platinum with an interest rate of 13.00% - 21.00%%. The processing fee is 2.2% of loan amount. The minimum salary required is 12,000 and the minimum credit score required is Not Required. Prepayment charges are 3.5% anytime. The maximum loan amount available is 25 lakh and the tenure can go up to 4 years years.
+
+Karnataka Bank offers a AI/ML Course Loan with an interest rate of 9.25% - 14.25%%. The processing fee is 1.55% of loan amount. The minimum salary required is 25,000 and the minimum credit score required is Not Required. Prepayment charges are Nil. The maximum loan amount available is 30 lakh and the tenure can go up to 5 years years.
+
+Vijaya Bank offers a Loan Against Sovereign Gold Coin with an interest rate of 9.50% - 15.50%%. The processing fee is 1.1% of loan amount. The minimum salary required is 10,000 and the minimum credit score required is Not Required. Prepayment charges are 2% anytime. The maximum loan amount available is 40 lakh and the tenure can go up to 5 years years.
+
+Fullerton India offers a Content Creator Loan with an interest rate of 15.50% - 23.50%%. The processing fee is 5% of loan amount. The minimum salary required is 18,000 and the minimum credit score required is 640+. Prepayment charges are 9% anytime. The maximum loan amount available is 12 lakh and the tenure can go up to 3 years years.
+
+Syndicate Bank offers a Poultry Farm Loan with an interest rate of 8.50% - 12.50%%. The processing fee is 1% of loan amount. The minimum salary required is 14,000 and the minimum credit score required is Not Required. Prepayment charges are Nil. The maximum loan amount available is 22 lakh and the tenure can go up to 6 years years.
+
+Repco Bank offers a Loan Against Sovereign ETF with an interest rate of 8.25% - 12.25%%. The processing fee is 0.95% of loan amount. The minimum salary required is 40,000 and the minimum credit score required is 685+. Prepayment charges are 1.5% after 6 months. The maximum loan amount available is 75 lakh and the tenure can go up to 5 years years.
+
+IIFL Finance offers a Loan Against REITs with an interest rate of 10.50% - 15.50%%. The processing fee is 1.75% of loan amount. The minimum salary required is 60,000 and the minimum credit score required is 705+. Prepayment charges are 3% after 9 months. The maximum loan amount available is 1.5 crore and the tenure can go up to 6 years years.
+
+Saraswat Bank offers a Pharma Retailer Loan with an interest rate of 10.75% - 16.25%%. The processing fee is 1.9% of loan amount. The minimum salary required is 38,000 and the minimum credit score required is 690+. Prepayment charges are 4% after 12 months. The maximum loan amount available is 55 lakh and the tenure can go up to 6 years years.
+
+Citi Bank offers a Loan Against Art Collection with an interest rate of 15.00% - 22.00%%. The processing fee is 4% of loan amount. The minimum salary required is 2,00,000 and the minimum credit score required is 730+. Prepayment charges are 6% anytime. The maximum loan amount available is 3 crore and the tenure can go up to 5 years years.
+
+Corporation Bank offers a Loan Against Wine Collection with an interest rate of 16.00% - 24.00%%. The processing fee is 5% of loan amount. The minimum salary required is 3,00,000 and the minimum credit score required is 740+. Prepayment charges are 8% anytime. The maximum loan amount available is 5 crore and the tenure can go up to 3 years years.
+
+Edelweiss Finance offers a Loan Against Rare Coins with an interest rate of 14.00% - 20.00%%. The processing fee is 3.5% of loan amount. The minimum salary required is 1,50,000 and the minimum credit score required is 720+. Prepayment charges are 5% anytime. The maximum loan amount available is 2 crore and the tenure can go up to 4 years years.
+
+Allahabad Bank offers a Loan Against Antiques with an interest rate of 13.50% - 19.50%%. The processing fee is 3% of loan amount. The minimum salary required is 1,00,000 and the minimum credit score required is 710+. Prepayment charges are 4.5% anytime. The maximum loan amount available is 1.5 crore and the tenure can go up to 5 years years.
+
+Deutsche Bank offers a Loan Against Luxury Watches with an interest rate of 12.00% - 18.00%%. The processing fee is 2.5% of loan amount. The minimum salary required is 2,50,000 and the minimum credit score required is 735+. Prepayment charges are 3.5% anytime. The maximum loan amount available is 4 crore and the tenure can go up to 4 years years.
+
+Cholamandalam Finance offers a Loan Against Vintage Cars with an interest rate of 11.50% - 17.50%%. The processing fee is 2.25% of loan amount. The minimum salary required is 3,00,000 and the minimum credit score required is 730+. Prepayment charges are 3% anytime. The maximum loan amount available is 6 crore and the tenure can go up to 7 years years.
+
+State Bank of Mysore offers a Loan Against Collectibles with an interest rate of 13.00% - 20.00%%. The processing fee is 3.2% of loan amount. The minimum salary required is 1,20,000 and the minimum credit score required is 715+. Prepayment charges are 4.8% anytime. The maximum loan amount available is 2.25 crore and the tenure can go up to 5 years years.
+
+HDB Financial Services offers a Loan Against Designer Handbags with an interest rate of 16.50% - 25.00%%. The processing fee is 6% of loan amount. The minimum salary required is 80,000 and the minimum credit score required is 680+. Prepayment charges are 9% anytime. The maximum loan amount available is 50 lakh and the tenure can go up to 3 years years.
+
+Bank of Maharashtra offers a Loan Against Musical Instruments with an interest rate of 12.50% - 19.50%%. The processing fee is 2.8% of loan amount. The minimum salary required is 50,000 and the minimum credit score required is 695+. Prepayment charges are 4.5% anytime. The maximum loan amount available is 75 lakh and the tenure can go up to 5 years years.
+
+SBI offers a Loan Against Sports Memorabilia with an interest rate of 11.00% - 17.00%%. The processing fee is 2% of loan amount. The minimum salary required is 60,000 and the minimum credit score required is 705+. Prepayment charges are 3% anytime. The maximum loan amount available is 1 crore and the tenure can go up to 6 years years.
+
+HDFC Bank offers a Loan Against Yacht with an interest rate of 9.50% - 14.50%%. The processing fee is 1.75% of loan amount. The minimum salary required is 5,00,000 and the minimum credit score required is 750+. Prepayment charges are 2.5% anytime. The maximum loan amount available is 10 crore and the tenure can go up to 10 years years.
+
+ICICI Bank offers a Loan Against Private Jet with an interest rate of 8.50% - 13.50%%. The processing fee is 1.25% of loan amount. The minimum salary required is 10,00,000 and the minimum credit score required is 760+. Prepayment charges are 2% anytime. The maximum loan amount available is 50 crore and the tenure can go up to 15 years years.
+
+Axis Bank offers a Loan Against Race Horse with an interest rate of 14.00% - 21.00%%. The processing fee is 4% of loan amount. The minimum salary required is 2,00,000 and the minimum credit score required is 740+. Prepayment charges are 6% anytime. The maximum loan amount available is 5 crore and the tenure can go up to 5 years years.
+
+Bajaj Finserv offers a Loan Against Luxury Yacht with an interest rate of 12.00% - 18.00%%. The processing fee is 3% of loan amount. The minimum salary required is 3,00,000 and the minimum credit score required is 745+. Prepayment charges are 4% anytime. The maximum loan amount available is 8 crore and the tenure can go up to 8 years years.
+
+Kotak Mahindra Bank offers a Loan Against Wine Cellar with an interest rate of 13.50% - 20.50%%. The processing fee is 3.8% of loan amount. The minimum salary required is 1,50,000 and the minimum credit score required is 730+. Prepayment charges are 5.5% anytime. The maximum loan amount available is 3.5 crore and the tenure can go up to 6 years years.
+
+IDFC First Bank offers a Loan Against Art Portfolio with an interest rate of 11.50% - 17.50%%. The processing fee is 2.75% of loan amount. The minimum salary required is 1,00,000 and the minimum credit score required is 725+. Prepayment charges are 4% anytime. The maximum loan amount available is 2.8 crore and the tenure can go up to 7 years years.
+
+Bank of Baroda offers a Loan Against Classic Car Collection with an interest rate of 10.50% - 16.50%%. The processing fee is 2.25% of loan amount. The minimum salary required is 2,50,000 and the minimum credit score required is 735+. Prepayment charges are 3.5% anytime. The maximum loan amount available is 7.5 crore and the tenure can go up to 10 years years.
+
+Yes Bank offers a Loan Against Luxury Villa with an interest rate of 9.00% - 14.00%%. The processing fee is 1.5% of loan amount. The minimum salary required is 4,00,000 and the minimum credit score required is 740+. Prepayment charges are 2% anytime. The maximum loan amount available is 15 crore and the tenure can go up to 12 years years.
+
+Punjab National Bank offers a Loan Against Tea Estate with an interest rate of 8.75% - 13.25%%. The processing fee is 1.35% of loan amount. The minimum salary required is 1,50,000 and the minimum credit score required is 720+. Prepayment charges are 2.5% after 1 year. The maximum loan amount available is 25 crore and the tenure can go up to 15 years years.
+
+AU Small Finance Bank offers a Loan Against Coffee Plantation with an interest rate of 9.25% - 14.75%%. The processing fee is 1.65% of loan amount. The minimum salary required is 1,20,000 and the minimum credit score required is 715+. Prepayment charges are 3% after 18 months. The maximum loan amount available is 18 crore and the tenure can go up to 12 years years.
+
+IndusInd Bank offers a Loan Against Rubber Estate with an interest rate of 9.50% - 15.00%%. The processing fee is 1.75% of loan amount. The minimum salary required is 1,30,000 and the minimum credit score required is 710+. Prepayment charges are 3.5% after 2 years. The maximum loan amount available is 20 crore and the tenure can go up to 13 years years.
+
+Canara Bank offers a Loan Against Spice Farm with an interest rate of 8.50% - 13.50%%. The processing fee is 1.25% of loan amount. The minimum salary required is 1,00,000 and the minimum credit score required is 705+. Prepayment charges are 2% after 1 year. The maximum loan amount available is 15 crore and the tenure can go up to 10 years years.
+
+Federal Bank offers a Loan Against Floriculture Unit with an interest rate of 10.00% - 15.50%%. The processing fee is 1.9% of loan amount. The minimum salary required is 90,000 and the minimum credit score required is 700+. Prepayment charges are 3% after 6 months. The maximum loan amount available is 12 crore and the tenure can go up to 8 years years.
+
+Tata Capital offers a Loan Against Organic Farm with an interest rate of 9.75% - 14.25%%. The processing fee is 1.6% of loan amount. The minimum salary required is 80,000 and the minimum credit score required is 695+. Prepayment charges are 2.8% after 9 months. The maximum loan amount available is 10 crore and the tenure can go up to 7 years years.
+
+Union Bank of India offers a Loan Against Herbal Plantation with an interest rate of 8.25% - 12.75%%. The processing fee is 1.1% of loan amount. The minimum salary required is 75,000 and the minimum credit score required is 690+. Prepayment charges are 1.5% after 6 months. The maximum loan amount available is 8 crore and the tenure can go up to 6 years years.
+
+IDBI Bank offers a Loan Against Bamboo Farm with an interest rate of 9.00% - 13.50%%. The processing fee is 1.3% of loan amount. The minimum salary required is 70,000 and the minimum credit score required is 685+. Prepayment charges are 2% after 12 months. The maximum loan amount available is 6 crore and the tenure can go up to 5 years years.
+
+RBL Bank offers a Loan Against Aloe Vera Farm with an interest rate of 10.25% - 15.25%%. The processing fee is 1.85% of loan amount. The minimum salary required is 65,000 and the minimum credit score required is 680+. Prepayment charges are 3% after 9 months. The maximum loan amount available is 5 crore and the tenure can go up to 4 years years.
+
+Bank of India offers a Loan Against Medicinal Plants with an interest rate of 9.25% - 14.25%%. The processing fee is 1.55% of loan amount. The minimum salary required is 60,000 and the minimum credit score required is 675+. Prepayment charges are 2.5% after 6 months. The maximum loan amount available is 4 crore and the tenure can go up to 5 years years.
+
+South Indian Bank offers a Loan Against Vanilla Farm with an interest rate of 10.50% - 16.00%%. The processing fee is 2% of loan amount. The minimum salary required is 55,000 and the minimum credit score required is 670+. Prepayment charges are 3.5% after 12 months. The maximum loan amount available is 3.5 crore and the tenure can go up to 6 years years.
+
+Central Bank of India offers a Loan Against Saffron Farm with an interest rate of 8.75% - 13.25%%. The processing fee is 1.4% of loan amount. The minimum salary required is 50,000 and the minimum credit score required is 665+. Prepayment charges are 2% after 3 months. The maximum loan amount available is 3 crore and the tenure can go up to 7 years years.
+
+Muthoot Finance offers a Loan Against Cardamom Estate with an interest rate of 11.00% - 17.00%%. The processing fee is 2.25% of loan amount. The minimum salary required is 45,000 and the minimum credit score required is 660+. Prepayment charges are 4% after 6 months. The maximum loan amount available is 2.5 crore and the tenure can go up to 5 years years.
+
