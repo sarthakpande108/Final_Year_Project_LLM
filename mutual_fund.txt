@@ -1,0 +1,1747 @@
+[
+    {
+  "fund": "SBI Contra Fund - Direct Plan - Growth",
+  "nav": { "value": 402.08, "currency": "INR", "as_on": "2025-05-02" },
+  "aum": { "value": 42220, "unit": "Cr", "as_of": "2025-03-31" },
+  "expense_ratio": 0.64,
+  "exit_load": { "value_pct": 1.0, "period_days": 365 },
+  "risk_profile": "Very High",
+  "asset_allocation": {
+    "equity": 85.51,
+    "debt": 12.7,
+    "real_estate": 0.9,
+    "cash": 0.89
+  },
+  "annualized_returns": {
+    "1y": 4.90,
+    "3y": 22.75,
+    "5y": 35.02,
+    "7y": 18.63,
+    "10y": 16.58,
+    "since_inception": 16.74
+  },
+  "number_of_holdings": 105,
+  "top_holdings": [
+    { "name": "HDFC Bank Ltd.", "pct": 8.76 },
+    { "name": "Reliance Industries Ltd.", "pct": 4.24 },
+    { "name": "Kotak Mahindra Bank Ltd.", "pct": 3.29 },
+    { "name": "GAIL (India) Ltd.", "pct": 2.25 },
+    { "name": "Torrent Power Ltd.", "pct": 2.17 }
+  ],
+  "market_cap_weightage": {
+    "giant": 50.25,
+    "large": 23.75,
+    "mid": 19.99,
+    "small": 6.01
+  },
+  "managers": [
+    { "name": "Dinesh Balachandran", "from": "2018-05", "to": "Present" },
+    { "name": "Pradeep Kesavan", "from": "2023-12", "to": "Present" }
+  ],
+  "benchmark": "BSE 500 Total Return Index",
+  "style": "Value / Contrarian",
+  "inception_date": "1987-06-29",
+  "min_investment": {
+    "lump_sum_first": 5000,
+    "min_withdrawal": 500,
+    "sip": 500
+  },
+  "taxation": {
+    "STCG": { "period_days": 365, "rate_pct": 20 },
+    "LTCG": { "exempt_upto": 125000, "rate_pct": 12.5 }
+  }
+},
+{
+  "fund": "Parag Parikh Flexi Cap Fund - Direct Plan - Growth",
+  "expense_ratio": 1.33,
+  "exit_load": { "value_pct": 0.0, "period_days": 0 },
+  "aum": { "value": 100250, "unit": "Cr", "as_of": "2025-05-02" },
+  "inception_date": "2012-10-10",
+  "risk_profile": "Very High",
+  "asset_allocation": {
+    "equity": 78.05,
+    "debt": 10.87,
+    "others": 11.08
+  },
+  "annualized_returns": {
+    "1y": 12.69,
+    "3y": 20.92,
+    "5y": 20.75,
+    "10y": 19.50
+  },
+  "number_of_holdings": 87,
+  "top_holdings": [
+    { "name": "Clearing Corporation of India Ltd", "pct": 11.21 },
+    { "name": "HDFC Bank Ltd.", "pct": 8.38 },
+    { "name": "Bajaj Holdings and Investment Ltd", "pct": 7.10 },
+    { "name": "Coal India Ltd", "pct": 6.01 },
+    { "name": "Power Grid Corporation of India Ltd", "pct": 5.99 }
+  ],
+  "managers": [
+    { "name": "Raunak Onkar", "from": "2013-05", "to": "Present" },
+    { "name": "Raj Mehta", "from": "2016-01", "to": "Present" },
+    { "name": "Rukun Tarachandani", "from": "2022-05", "to": "Present" },
+    { "name": "Mansi Kariya", "from": "2023-12", "to": "Present" }
+  ],
+  "min_investment": {
+    "lump_sum_first": 1000,
+    "sip": 1000
+  }
+},
+{
+  "fund": "Kotak Flexicap Fund - Direct Plan - Growth",
+  "expense_ratio": 0.64,
+  "exit_load": { "value_pct": 1.0, "period_days": 365 },
+  "aum": { "value": 49130, "unit": "Cr", "as_of": "2025-03-31" },
+  "inception_date": "1994-08-05",
+  "risk_profile": "Very High",
+  "asset_allocation": {
+    "equity": 97.60,
+    "debt": 0.16,
+    "cash": 2.24
+  },
+  "annualized_returns": {
+    "1y": 7.50,
+    "3y": 17.04,
+    "5y": 22.38,
+    "7y": 14.47,
+    "10y": 14.80,
+    "since_inception": 16.62
+  },
+  "top_holdings": [
+    { "name": "ICICI Bank Ltd.", "pct": 7.27 },
+    { "name": "HDFC Bank Ltd.", "pct": 5.95 },
+    { "name": "Bharat Electronics Ltd.", "pct": 5.92 },
+    { "name": "UltraTech Cement Ltd.", "pct": 4.10 },
+    { "name": "Larsen & Toubro Ltd.", "pct": 4.05 }
+  ],
+  "managers": [
+    {
+      "name": "Harsha Upadhyaya",
+      "from": "2013-01",
+      "to": "Present",
+      "education": "B.E. (Mechanical) NIT Suratkal; PGDM IIM Lucknow; CFA"
+    }
+  ],
+  "min_investment": {
+    "lump_sum_first": 100,
+    "sip": 100
+  }
+}
+,
+{
+  "fund": "Franklin India Flexi Cap Fund - Direct Plan - Growth",
+  "expense_ratio": 1.00,
+  "exit_load": { "value_pct": 1.0, "period_days": 365 },
+  "aum": { "value": 17394, "unit": "Cr", "as_of": "2025-03-31" },
+  "inception_date": "2013-01-01",
+  "risk_profile": "Very High",
+  "asset_allocation": {
+    "equity": 94.87,
+    "cash_and_equivalents": 4.98,
+    "debt": 0.14
+  },
+  "annualized_returns": {
+    "1y": 9.76,
+    "3y": 20.15,
+    "5y": 28.27,
+    "7y": 16.06,
+    "10y": 14.94,
+    "since_inception": 16.98
+  },
+  "top_holdings": [
+    { "name": "HDFC Bank Ltd.", "pct": 8.87 },
+    { "name": "ICICI Bank Ltd.", "pct": 8.46 },
+    { "name": "Bharti Airtel Ltd.", "pct": 4.89 },
+    { "name": "Larsen & Toubro Ltd.", "pct": 4.28 },
+    { "name": "Infosys Ltd.", "pct": 4.18 }
+  ],
+  "managers": [
+    { "name": "Sandeep Manam", "from": "2021-10", "to": "Present" },
+    { "name": "R. Janakiraman", "from": null, "to": "Present" },
+    { "name": "Srikesh Nair", "from": null, "to": "Present" }
+  ],
+  "min_investment": {
+    "lump_sum_first": 5000,
+    "sip": 500
+  }
+},
+{
+  "fund": "HSBC Flexi Cap Fund - Direct Plan - Growth",
+  "expense_ratio": 1.18,
+  "exit_load": { "value_pct": 1.0, "period_days": 365 },
+  "aum": { "value": 4182.76, "unit": "Cr", "as_of": "2025-05-02" },
+  "inception_date": "2002-05-27",
+  "risk_profile": "Very High",
+  "asset_allocation": {
+    "equity": 98.00,
+    "cash": 2.00
+  },
+  "annualized_returns": {
+    "1y": 6.90,
+    "3y": 19.01,
+    "5y": 23.80
+  },
+  "top_holdings": [
+    { "name": "HDFC Bank Ltd.", "pct": 5.37 },
+    { "name": "ICICI Bank Ltd.", "pct": 4.80 },
+    { "name": "Infosys Ltd.", "pct": 3.47 },
+    { "name": "Reliance Industries Ltd.", "pct": 3.14 },
+    { "name": "Bharti Airtel Ltd.", "pct": 3.13 }
+  ],
+  "managers": [
+    {
+      "name": "Neelotpal Sahai",
+      "from": "2023-10-01",
+      "to": "Present",
+      "notes": "CFA charterholder; manages 10 schemes at HSBC AMC"
+    }
+  ],
+  "min_investment": {
+    "lump_sum_first": 5000,
+    "sip": 500
+  }
+}
+,
+{
+  "fund": "Quant Flexi Cap Fund - Direct Plan - Growth",
+  "expense_ratio": 0.62,
+  "exit_load": { "value_pct": 1.0, "period_days": 365 },
+  "aum": { "value": 6712.15, "unit": "Cr", "as_of": "2025-03-31" },
+  "inception_date": "1996-04-14",
+  "risk_profile": "Very High",
+  "asset_allocation": {
+    "equity": 88.12,
+    "debt": 4.05,
+    "others": 7.83
+  },
+  "annualized_returns": {
+    "1y": -3.65,
+    "3y": 19.13,
+    "5y": 35.39,
+    "10y": 19.69
+  },
+  "number_of_holdings": 35,
+  "top_holdings": [
+    { "name": "Reliance Industries Ltd.", "pct": 9.88 },
+    { "name": "ITC Ltd.", "pct": 8.21 },
+    { "name": "Bajaj Finserv Ltd.", "pct": 6.02 },
+    { "name": "Adani Power Ltd.", "pct": 5.70 },
+    { "name": "Motherson Sumi Systems Ltd.", "pct": 5.34 }
+  ],
+  "managers": [
+    { "name": "Sanjeev Sharma", "from": "2010-01", "to": "Present" },
+    { "name": "Shamil Mehra", "from": "2010-01", "to": "Present" }
+  ],
+  "min_investment": {
+    "lump_sum_first": 5000,
+    "sip": 1000
+  }
+},
+{
+  "fund": "Motilal Oswal Large and Midcap Fund - Direct Plan - Growth",
+  "expense_ratio": 0.54,
+  "exit_load": { "value_pct": 1.0, "period_days": 365 },
+  "aum": { "value": 8712.99, "unit": "Cr", "as_of": "2025-03-31" },
+  "inception_date": "2019-10-17",
+  "risk_profile": "Very High",
+  "asset_allocation": {
+    "equity": 98.82,
+    "debt": 0.0,
+    "others": 1.18
+  },
+  "annualized_returns": {
+    "1y": 13.22,
+    "3y": 29.05,
+    "5y": 31.73,
+    "since_inception": 23.44
+  },
+  "number_of_holdings": null,
+  "top_holdings": null,
+  "managers": [
+    { "name": "Atul Mehra", "from": "2024-10", "to": "Present" },
+    { "name": "Sunil Sawant", "from": "2024-07", "to": "Present" }
+  ],
+  "min_investment": {
+    "lump_sum_first": 5000,
+    "sip": 500
+  }
+},
+{
+  "fund": "HDFC ELSS Tax Saver Fund - Direct Plan - Growth",
+  "inception_date": "2013-01-01",
+  "latest_nav": 1466.51,
+  "aum": {
+    "value": 15556,
+    "unit": "Cr",
+    "as_of": "2025-03-31"
+  },
+  "expense_ratio": 1.11,
+  "exit_load": {
+    "value_pct": 0.0,
+    "period_days": 1095,
+    "notes": "Statutory 3-year lock-in (no exit load thereafter)"
+  },
+  "risk_profile": "Very High",
+  "benchmark": "NIFTY 500 TRI",
+  "asset_allocation": {
+    "equity": 92.40,
+    "debt": 0.33,
+    "others": 7.27,
+    "large_cap": 77.32,
+    "mid_cap": 5.97,
+    "small_cap": 9.11
+  },
+  "annualized_returns": {
+    "1y": 14.07,
+    "3y": 24.90,
+    "5y": 29.36,
+    "10y": 14.22,
+    "since_inception": 15.54
+  },
+  "top_holdings": [
+    { "name": "ICICI Bank Ltd.", "pct": 10.40 },
+    { "name": "HDFC Bank Ltd.", "pct": 10.11 },
+    { "name": "Axis Bank Ltd.", "pct": 9.21 },
+    { "name": "Cipla Ltd.", "pct": 5.01 },
+    { "name": "Kotak Mahindra Bank Ltd.", "pct": 4.89 }
+  ],
+  "managers": [
+    {
+      "name": "Roshi Jain",
+      "notes": "CFA, ACA, PGDM; with HDFC AMC since joining"
+    }
+  ],
+  "min_investment": {
+    "lump_sum_first": 1000,
+    "sip": 500
+  }
+}
+,
+{
+  "fund": "Axis ELSS Tax Saver Fund - Direct Plan - Growth",
+  "inception_date": "2013-01-02",
+  "latest_nav": 108.46,
+  "aum": {
+    "value": 34176.50,
+    "unit": "Cr",
+    "as_of": "2025-03-31"
+  },
+  "expense_ratio": 0.77,
+  "exit_load": {
+    "value_pct": 0.0,
+    "period_days": null,
+    "notes": "3-year statutory lock-in (no exit load thereafter)"  
+  },
+  "risk_profile": "Very High",
+  "benchmark": "NIFTY 500 TRI",
+  "asset_allocation": {
+    "equity": 95.44,
+    "large_cap": 52.10,
+    "mid_cap": 16.44,
+    "small_cap": 4.12,
+    "others": 4.56
+  },
+  "annualized_returns": {
+    "1y": 8.46,
+    "2y": 23.68,
+    "3y": 15.00,
+    "5y": 13.51,
+    "10y": 13.67
+  },
+  "top_holdings": [
+    { "name": "HDFC Bank Ltd.", "pct": 5.37 },
+    { "name": "ICICI Bank Ltd.", "pct": 4.80 },
+    { "name": "Infosys Ltd.", "pct": 3.47 },
+    { "name": "Reliance Industries Ltd.", "pct": 3.14 },
+    { "name": "Bharti Airtel Ltd.", "pct": 3.13 }
+  ],
+  "managers": [
+    { "name": "Shreyash Devalkar", "notes": "Fund Manager since launch" },
+    { "name": "Ashish Naik", "notes": "Co-manager" }
+  ],
+  "min_investment": {
+    "lump_sum_first": 1000,
+    "sip": 500
+  }
+},
+{
+  "fund": "Nippon India Retirement Fund - Wealth Creation Scheme - Direct Plan - Growth",
+  "inception_date": "2015-02-11",
+  "latest_nav": 30.6056,
+  "aum": {
+    "value": 3044.04,
+    "unit": "Cr",
+    "as_of": "2025-05-06"
+  },
+  "expense_ratio": 1.02,
+  "exit_load": {
+    "value_pct": 0.0,
+    "period_days": null,
+    "notes": "No exit load post lock‐in"
+  },
+  "risk_profile": "Very High",
+  "benchmark": "BSE 500 TRI",
+  "asset_allocation": {
+    "equity": 99.50,
+    "large_cap": 63.36,
+    "mid_cap": 10.14,
+    "small_cap": 5.62,
+    "others": 0.50
+  },
+  "annualized_returns": {
+    "1y": 7.55,
+    "3y": 19.47,
+    "5y": 26.12,
+    "10y": 11.98,
+    "since_inception": 11.67
+  },
+  "top_holdings": [
+    { "name": "ICICI Bank Ltd.", "pct": 8.86 },
+    { "name": "HDFC Bank Ltd.", "pct": 7.21 },
+    { "name": "Infosys Ltd.", "pct": 4.80 },
+    { "name": "Reliance Industries Ltd.", "pct": 4.19 },
+    { "name": "Axis Bank Ltd.", "pct": 3.44 }
+  ],
+  "managers": [
+    "Kinjal Desai",
+    "Pranay Sinha",
+    "Sanjay Doshi"
+  ],
+  "min_investment": {
+    "lump_sum_first": 500,
+    "sip": 500
+  }
+},
+{
+  "fund": "HDFC Retirement Savings Fund - Equity Plan - Direct Plan - Growth",
+  "inception_date": "2016-02-26",
+  "latest_nav": 55.354,
+  "aum": {
+    "value": 5983.38,
+    "unit": "Cr",
+    "as_of": "2025-05-05"
+  },
+  "expense_ratio": 0.94,
+  "exit_load": {
+    "value_pct": 0.0,
+    "period_days": null,
+    "notes": "No exit load post lock-in period"
+  },
+  "risk_profile": "Very High",
+  "benchmark": "NIFTY 500 TRI",
+  "asset_allocation": {
+    "equity": 89.42,
+    "  large_cap": 52.86,
+    "  mid_cap": 6.65,
+    "  small_cap": 12.69,
+    "others": 10.58
+  },
+  "annualized_returns": {
+    "1y": 9.75,
+    "3y": 21.48,
+    "5y": 30.65,
+    "since_inception": 20.46
+  },
+  "top_holdings": [
+    { "name": "HDFC Bank Ltd.", "pct": 9.17 },
+    { "name": "ICICI Bank Ltd.", "pct": 7.21 },
+    { "name": "Axis Bank Ltd.", "pct": 4.42 },
+    { "name": "Reliance Industries Ltd.", "pct": 3.28 },
+    { "name": "Bajaj Finance Ltd.", "pct": 2.94 }
+  ],
+  "managers": [
+    "Srinivasan Ramamurty",
+    "Shobhit Mehrotra"
+  ],
+  "min_investment": {
+    "lump_sum_first": 1000,
+    "sip": 1000
+  }
+},
+{
+  "fund": "ICICI Prudential Retirement Fund - Pure Equity Plan - Direct Plan - Growth",
+  "inception_date": "2019-02-27",
+  "latest_nav": 32.32,
+  "aum": {
+    "value": 1073.69,
+    "unit": "Cr",
+    "as_of": "2025-02-28"
+  },
+  "expense_ratio": 0.99,
+  "exit_load": {
+    "value_pct": 1.0,
+    "period_days": 365
+  },
+  "risk_profile": "Very High",
+  "benchmark": "NIFTY 500 Total Return Index",
+  "asset_allocation": {
+    "equity_domestic": 97.83,
+    "large_cap": 41.24,
+    "mid_cap": 20.70,
+    "small_cap": 21.48,
+    "others": 2.17
+  },
+  "annualized_returns": {
+    "1y": 8.12,
+    "3y": 31.20,
+    "5y": 32.00,
+    "since_launch": 21.12
+  },
+  "top_holdings": [
+    { "name": "Bharti Airtel Ltd.", "pct": 5.15 },
+    { "name": "Multi Commodity Exchange of India Ltd.", "pct": 4.67 },
+    { "name": "Muthoot Finance Ltd.", "pct": 3.96 },
+    { "name": "InterGlobe Aviation Ltd.", "pct": 3.96 },
+    { "name": "UltraTech Cement Ltd.", "pct": 3.12 }
+  ],
+  "managers": [
+    { "name": "Mrinal Singh", "from": "—", "to": "Present" }
+  ],
+  "min_investment": {
+    "lump_sum_first": 5000,
+    "sip": 1000
+  }
+},
+{
+  "fund": "HDFC Large and Mid Cap Fund - Direct Plan - Growth",
+  "inception_date": "2013-01-01",
+  "latest_nav": 337.638,
+  "aum": {
+    "value": 23379.95,
+    "unit": "Cr",
+    "as_of": "2025-03-31"
+  },
+  "expense_ratio": 1.02,
+  "exit_load": {
+    "value_pct": 1.0,
+    "period_days": 365
+  },
+  "risk_profile": "Very High",
+  "benchmark": "NIFTY LargeMidcap 250 TRI",
+  "asset_allocation": {
+    "equity_total": 98.31,
+    "large_cap": 38.01,
+    "mid_cap": 26.80,
+    "small_cap": 10.92,
+    "others": 1.69
+  },
+  "annualized_returns": {
+    "1m": 6.60,
+    "3m": 1.49,
+    "6m": -2.54,
+    "1y": 7.25,
+    "3y": 21.95,
+    "5y": 30.81,
+    "10y": 14.20,
+    "since_inception": 13.96
+  },
+  "top_holdings": [
+    { "name": "HDFC Bank Ltd.", "pct": 5.34 },
+    { "name": "ICICI Bank Ltd.", "pct": 3.98 },
+    { "name": "Infosys Ltd.", "pct": 2.24 },
+    { "name": "Axis Bank Ltd.", "pct": 2.00 },
+    { "name": "Mphasis Ltd.", "pct": 1.64 }
+  ],
+  "managers": [],
+  "min_investment": {
+    "lump_sum_first": 100,
+    "sip": 100
+  }
+},
+{
+  "fund": "ICICI Prudential Large & Mid Cap Fund - Direct Plan - Growth",
+  "inception_date": "2013-01-01",
+  "latest_nav": 1074.14,
+  "aum": {
+    "value": 19352.94,
+    "unit": "Cr",
+    "as_of": "2025-03-31"
+  },
+  "expense_ratio": 0.88,
+  "exit_load": {
+    "value_pct": 1.0,
+    "period_days": 30
+  },
+  "risk_profile": "Very High",
+  "benchmark": "NIFTY LargeMidcap 250 TRI",
+  "asset_allocation": {
+    "equity": 92.91,
+    "large_cap": 45.58,
+    "mid_cap": 17.81,
+    "small_cap": 3.76,
+    "debt": 0.74,
+    "others": 6.35
+  },
+  "annualized_returns": {
+    "1y": 13.24,
+    "3y": 24.28,
+    "5y": 31.68,
+    "since_launch": 16.98
+  },
+  "top_holdings": [
+    { "name": "Maruti Suzuki India Ltd.", "pct": 5.45 },
+    { "name": "FSN E-Commerce Ventures Ltd.", "pct": 4.48 },
+    { "name": "ICICI Bank Ltd.", "pct": 3.78 },
+    { "name": "SBI Cards And Payment Services Ltd.", "pct": 3.59 },
+    { "name": "Avenue Supermarts Ltd.", "pct": 3.21 }
+  ],
+  "managers": [
+    "S. Naren",
+    "Prakash Gaurav Goel"
+  ],
+  "min_investment": {
+    "lump_sum_first": 5000,
+    "sip": 100
+  }
+},
+{
+  "fund": "Mirae Asset Large & Midcap Fund - Direct Plan - Growth",
+  "inception_date": "2013-01-01",
+  "latest_nav": 158.41,
+  "aum": {
+    "value": 36506.79,
+    "unit": "Cr",
+    "as_of": "2025-05-05"
+  },
+  "expense_ratio": 0.66,
+  "exit_load": {
+    "value_pct": 1.0,
+    "period_days": 365
+  },
+  "risk_profile": "Very High",
+  "benchmark": "NIFTY LargeMidcap 250 TRI",
+  "asset_allocation": {
+    "large_cap": 49.96,
+    "mid_cap": 35.88,
+    "small_cap": 12.83,
+    "debt": 0.00,
+    "others": 1.32
+  },
+  "annualized_returns": {
+    "1y": 6.49,
+    "3y": 17.22,
+    "5y": 26.26,
+    "10y": 18.52,
+    "since_launch": 21.69
+  },
+  "top_holdings": [
+    { "name": "HDFC Bank Ltd.", "pct": 5.59 },
+    { "name": "Axis Bank Ltd.", "pct": 4.63 },
+    { "name": "State Bank of India", "pct": 2.91 },
+    { "name": "ICICI Bank Ltd.", "pct": 2.69 },
+    { "name": "Larsen & Toubro Ltd.", "pct": 2.68 }
+  ],
+  "managers": [
+    { "name": "Ankit Jain", "notes": "B.Tech, MBA; with Mirae Asset AMC since Jan 2013" },
+    { "name": "Neelesh Surana", "notes": "B.E., MBA; with Mirae Asset AMC since 2015" }
+  ],
+  "min_investment": {
+    "lump_sum_first": 5000,
+    "sip": 1000
+  }
+},
+{
+  "fund": "Aditya Birla Sun Life Small Cap Fund - Direct Plan - Growth",
+  "inception_date": "1994-12-23",
+  "latest_nav": 88.42,
+  "aum": {
+    "value": 4416.28,
+    "unit": "Cr",
+    "as_of": "2025-03-31"
+  },
+  "expense_ratio": 1.02,
+  "exit_load": {
+    "value_pct": 1.0,
+    "period_days": 365
+  },
+  "risk_profile": "Very High",
+  "benchmark": "NIFTY Smallcap 250 TRI",
+  "asset_allocation": {
+    "equity": 96.14,
+    "debt": 0.00,
+    "others": 3.86
+  },
+  "annualized_returns": {
+    "1y": -1.13,
+    "3y": 15.98,
+    "5y": 29.13,
+    "since_launch": 16.45
+  },
+  "top_holdings": [],
+  "managers": [
+    {
+      "name": "Jayesh Gandhi",
+      "from": "2022-06",
+      "to": "Present",
+      "notes": "B.Com, CFA; with ABSL AMC since 2010"
+    }
+  ],
+  "min_investment": {
+    "lump_sum_first": 100,
+    "sip": 100
+  }
+},
+{
+  "fund": "ICICI Prudential Smallcap Fund - Direct Plan - Growth",
+  "inception_date": "2013-01-01",
+  "latest_nav": 88.93,
+  "aum": {
+    "value": 7392.00,
+    "unit": "Cr",
+    "as_of": "2025-03-31"
+  },
+  "expense_ratio": 0.88,
+  "exit_load": {
+    "value_pct": 1.0,
+    "period_days": 365
+  },
+  "risk_profile": "Very High",
+  "benchmark": "NIFTY Smallcap 250 TRI",
+  "asset_allocation": {
+    "equity": 86.70,
+    "debt": 0.45,
+    "others": 12.85
+  },
+  "annualized_returns": {
+    "1y": 0.09,
+    "3y": 17.43,
+    "5y": 34.37,
+    "since_launch": 17.26
+  },
+  "top_holdings": [],
+  "managers": [
+    {
+      "name": "Santhosh Sanker",
+      "from": "2021-01",
+      "to": "Present",
+      "notes": "CFA; with ICICI Prudential AMC since 2018"
+    }
+  ],
+  "min_investment": {
+    "lump_sum_first": 100,
+    "sip": 100
+  }
+},
+{
+  "fund": "Kotak Small Cap Fund - Direct Plan - Growth",
+  "inception_date": "1994-08-05",
+  "latest_nav": 280.29,
+  "aum": {
+    "value": 15706.46,
+    "unit": "Cr",
+    "as_of": "2025-05-05"
+  },
+  "expense_ratio": 0.58,
+  "exit_load": {
+    "value_pct": 1.0,
+    "period_days": 365
+  },
+  "risk_profile": "Very High",
+  "benchmark": "NIFTY Smallcap 250 TRI",
+  "asset_allocation": {
+    "equity": 95.61,
+    "debt": 0.0,
+    "others": 4.39
+  },
+  "annualized_returns": {
+    "1y": 3.70,
+    "3y": 15.83,
+    "5y": 35.36,
+    "since_launch": 19.68
+  },
+  "top_holdings": [],
+  "managers": [
+    "Pankaj Tibrewal"
+  ],
+  "min_investment": {
+    "lump_sum_first": 100,
+    "sip": 100
+  }
+},
+{
+  "fund": "Axis Small Cap Fund - Direct Plan - Growth",
+  "inception_date": "2013-11-29",
+  "latest_nav": 112.61,
+  "aum": {
+    "value": 22735.71,
+    "unit": "Cr",
+    "as_of": "2025-05-05"
+  },
+  "expense_ratio": 0.57,
+  "exit_load": {
+    "value_pct": 1.0,
+    "period_days": 365
+  },
+  "risk_profile": "Very High",
+  "benchmark": "NIFTY Smallcap 250 TRI",
+  "asset_allocation": {
+    "equity": 88.8,
+    "debt": 0.7,
+    "others": 10.5
+  },
+  "annualized_returns": {
+    "1y": 9.16,
+    "3y": 19.41,
+    "5y": 32.21,
+    "since_launch": 23.58
+  },
+  "top_holdings": [
+    { "name": "Devyani International Ltd.", "pct": 0.59 },
+    { "name": "Bharat Dynamics Ltd.", "pct": 0.59 },
+    { "name": "Laurus Labs Ltd.", "pct": 0.57 },
+    { "name": "Mahanagar Gas Ltd.", "pct": 0.56 },
+    { "name": "Chalet Hotels Ltd.", "pct": 0.55 }
+  ],
+  "managers": [
+    "Tejas Sheth",
+    "Mayank Hyanki",
+    "Krishnaa N"
+  ],
+  "min_investment": {
+    "lump_sum_first": 100,
+    "sip": 100
+  }
+},
+
+  {
+    "fund": "Axis Small Cap Fund - Direct Plan - Growth",
+    "inception_date": "2013-11-11",
+    "latest_nav": 112.61,
+    "aum": {
+      "value": 22735.71,
+      "unit": "Cr",
+      "as_of": "2025-05-05"
+    },
+    "expense_ratio": 0.57,
+    "exit_load": {
+      "value_pct": 1.0,
+      "period_days": 365
+    },
+    "risk_profile": "Very High",
+    "benchmark": "NIFTY Smallcap 250 TRI",
+    "asset_allocation": {
+      "equity": 88.8,
+      "debt": 0.7,
+      "others": 10.5
+    },
+    "annualized_returns": {
+      "1y": 9.45,
+      "3y": 20.29,
+      "5y": 32.01,
+      "10y": 19.46,
+      "since_launch": 23.6
+    },
+    "top_holdings": [
+      { "name": "Blue Star Ltd.", "pct": 3.64 },
+      { "name": "Krishna Institute of Medical Sciences Ltd.", "pct": 3.03 },
+      { "name": "Cholamandalam Financial Holdings Ltd.", "pct": 2.91 },
+      { "name": "Brigade Enterprises Ltd.", "pct": 2.65 },
+      { "name": "Kaynes Technology India Ltd.", "pct": 2.16 }
+    ],
+    "managers": [
+      "Mayank Hyanki",
+      "Tejas Sheth"
+    ],
+    "min_investment": {
+      "lump_sum_first": 1000,
+      "sip": 500
+    }
+  },
+  {
+    "fund": "Kotak Small Cap Fund - Direct Plan - Growth",
+    "inception_date": "1994-08-05",
+    "latest_nav": 280.29,
+    "aum": {
+      "value": 15706.46,
+      "unit": "Cr",
+      "as_of": "2025-05-05"
+    },
+    "expense_ratio": 0.58,
+    "exit_load": {
+      "value_pct": 1.0,
+      "period_days": 365
+    },
+    "risk_profile": "Very High",
+    "benchmark": "NIFTY Smallcap 250 TRI",
+    "asset_allocation": {
+      "equity": 95.61,
+      "debt": 0.0,
+      "others": 4.39
+    },
+    "annualized_returns": {
+      "1y": 3.7,
+      "3y": 15.8,
+      "5y": 35.4,
+      "since_launch": 19.7
+    },
+    "top_holdings": [
+      { "name": "Aster DM Healthcare Ltd.", "pct": 3.62 },
+      { "name": "Krishna Institute of Medical Sciences Ltd.", "pct": 3.45 },
+      { "name": "Vijaya Diagnostic Centre Ltd.", "pct": 3.15 },
+      { "name": "Century Plyboards (India) Ltd.", "pct": 2.99 },
+      { "name": "Cyient Ltd.", "pct": 2.88 }
+    ],
+    "managers": [
+      "Harish Bihani"
+    ],
+    "min_investment": {
+      "lump_sum_first": 100,
+      "sip": 100
+    }
+  },
+  {
+    "fund": "HDFC Small Cap Fund - Direct Plan - Growth",
+    "inception_date": "2013-01-01",
+    "latest_nav": 141.10,
+    "aum": {
+      "value": 30223.46,
+      "unit": "Cr",
+      "as_of": "2025-03-31"
+    },
+    "expense_ratio": 0.93,
+    "exit_load": {
+      "value_pct": 1.0,
+      "period_days": 365
+    },
+    "risk_profile": "Very High",
+    "benchmark": "BSE 250 Smallcap TRI",
+    "asset_allocation": {
+      "equity": 93.12,
+      "others": 6.88
+    },
+    "annualized_returns": {
+      "1y": 0.37,
+      "3y": 22.87,
+      "5y": 36.14,
+      "10y": 18.73,
+      "since_launch": 19.33
+    },
+    "top_holdings": [
+      { "name": "Firstsource Solutions Ltd.", "pct": 6.11 },
+      { "name": "Aster DM Healthcare Ltd.", "pct": 3.89 },
+      { "name": "Bank Of Baroda", "pct": 3.54 },
+      { "name": "eClerx Services Ltd.", "pct": 3.45 },
+      { "name": "Fortis Healthcare Ltd.", "pct": 2.88 }
+    ],
+    "managers": [
+      {
+        "name": "Amar Kalkundrikar",
+        "from": "2017-05",
+        "to": "Present",
+        "notes": "B.Com, CA, CFA"
+      },
+      {
+        "name": "Chirag Setalvad",
+        "from": "2023-11",
+        "to": "Present",
+        "notes": "B.Sc, MBA"
+      }
+    ],
+    "min_investment": {
+      "lump_sum_first": 100,
+      "sip": 500
+    }
+  },
+  {
+    "fund": "Quantum Small Cap Fund - Direct Plan - Growth",
+    "inception_date": "2005-09-19",
+    "latest_nav": 11.46,
+    "aum": {
+      "value": 2749.00,
+      "unit": "Cr",
+      "as_of": "2025-05-05"
+    },
+    "expense_ratio": 0.60,
+    "exit_load": {
+      "value_pct": 1.0,
+      "period_days": 365
+    },
+    "risk_profile": "Very High",
+    "benchmark": "NIFTY Smallcap 250 TRI",
+    "asset_allocation": {
+      "equity": 82.94,
+      "others": 17.06
+    },
+    "annualized_returns": {
+      "1y": 4.06,
+      "3y": 24.50,
+      "5y": 35.72,
+      "10y": 17.44,
+      "since_launch": 19.80
+    },
+    "top_holdings": [
+      { "name": "Eris Lifesciences Ltd.", "pct": 3.21 },
+      { "name": "Supriya Lifescience Ltd.", "pct": 3.19 },
+      { "name": "Aavas Financiers Ltd.", "pct": 2.75 },
+      { "name": "Crompton Greaves Consumer Electricals Ltd.", "pct": 2.71 },
+      { "name": "MPS Ltd.", "pct": 2.66 }
+    ],
+    "managers": [
+      {
+        "name": "Chirag Mehta",
+        "from": "2024-03",
+        "to": "Present",
+        "notes": "CFA Level I; with Quant AMC since 2018"
+      }
+    ],
+    "min_investment": {
+      "lump_sum_first": 500,
+      "sip": 500
+    }
+  },
+{
+  "fund": "SBI Small Cap Fund - Direct Plan - Growth",
+  "inception_date": "1987-06-29",
+  "latest_nav": 183.67,
+  "aum": {
+    "value": 30828.79,
+    "unit": "Cr",
+    "as_of": "2025-05-05"
+  },
+  "expense_ratio": 0.72,
+  "exit_load": {
+    "value_pct": 1.0,
+    "period_days": 365
+  },
+  "risk_profile": "Very High",
+  "benchmark": "BSE 250 Smallcap TRI",
+  "asset_allocation": {
+    "equity": 78.92,
+    "debt": 0.18,
+    "others": 20.90
+  },
+  "annualized_returns": {
+    "1y": 1.70,
+    "3y": 17.42,
+    "5y": 31.03,
+    "since_launch": 24.03
+  },
+  "top_holdings": [
+    { "name": "Doms Industries Ltd.", "pct": 3.08 },
+    { "name": "Chalet Hotels Ltd.", "pct": 2.58 },
+    { "name": "Krishna Institute of Medical Sciences Ltd.", "pct": 2.56 },
+    { "name": "SBFC Finance Ltd.", "pct": 2.56 },
+    { "name": "Kalpataru Projects International Ltd.", "pct": 2.50 }
+  ],
+  "managers": [
+    {
+      "name": "Mohan Lal",
+      "from": "2024-05",
+      "to": "Present",
+      "notes": "Postgraduate in Management; previously with Kotak Securities Ltd and Elara Securities."  
+    }
+  ],
+  "min_investment": {
+    "lump_sum_first": 500,
+    "sip": 500
+  }
+},
+{
+  "fund": "Nippon India Small Cap Fund - Direct Plan - Growth",
+  "inception_date": "2010-09-16",  
+  "latest_nav": 174.1537,  
+  "aum": {
+    "value": 55490.73,
+    "unit": "Cr",
+    "as_of": "2025-03-31"
+  },
+  "expense_ratio": 0.73,
+  "exit_load": {
+    "value_pct": 1.0,
+    "period_days": 365
+  },
+  "risk_profile": "Very High",
+  "benchmark": "NIFTY Smallcap 250 TRI",
+  "asset_allocation": {
+    "equity": 94.79,
+    "others": 5.21
+  },
+  "annualized_returns": {
+    "1y": 1.79,
+    "3y": 24.01,
+    "5y": 40.00,
+    "10y": 20.60,
+    "since_launch": 17.06
+  },
+  "top_holdings": [
+    { "name": "HDFC Bank Ltd.", "pct": 2.19 },
+    { "name": "Multi Commodity Exchange Of India Ltd.", "pct": 1.77 },
+    { "name": "Kirloskar Brothers Ltd.", "pct": 1.38 },
+    { "name": "State Bank Of India", "pct": 1.27 },
+    { "name": "Tube Investments Of India Ltd.", "pct": 1.25 }
+  ],
+  "managers": [
+    {
+      "name": "Samir Rachh",
+      "from": "2017-01-01",
+      "to": "Present",
+      "notes": "B.Com (H), prior experience at Hinduja Finance, Emkay Research, Anvicon Research."  
+    }
+  ],
+  "min_investment": {
+    "lump_sum_first": 100,
+    "sip": 100
+  }
+},
+{
+  "fund": "SBI Magnum Midcap Fund - Direct Plan - Growth",
+  "inception_date": "2013-01-02",
+  "latest_nav": 250.39,
+  "aum": {
+    "value": null,
+    "unit": "Cr",
+    "as_of": null
+  },
+  "expense_ratio": 0.83,
+  "exit_load": {
+    "value_pct": 1.0,
+    "period_days": 365
+  },
+  "risk_profile": "Very High",
+  "benchmark": "Nifty Midcap 150 TRI",
+  "annualized_returns": {
+    "1y": 7.95,
+    "3y": 17.85,
+    "5y": 32.17,
+    "since_launch": 19.51
+  },
+  "top_holdings": [],
+  "manager": ["Bhavin Vithlani", "Pradeep Kesavan"],
+  "min_investment": {
+    "lump_sum_first": null,
+    "sip": null
+  }
+},
+{
+  "fund": "Kotak Emerging Equity Fund - Direct Plan - Growth",
+  "inception_date": "2013-01-18",
+  "latest_nav": 139.25,
+  "aum": {
+    "value": 48128.71,
+    "unit": "Cr",
+    "as_of": "2025-05-04"
+  },
+  "expense_ratio": 0.46,
+  "exit_load": {
+    "value_pct": 1.0,
+    "period_days": 365
+  },
+  "risk_profile": "Very High",
+  "benchmark": "NIFTY Midcap 150 TRI",
+  "annualized_returns": {
+    "1y": 10.33,
+    "3y": 19.84,
+    "5y": 30.78,
+    "since_launch": 20.44
+  },
+  "top_holdings": [
+    { "name": "Fortis Healthcare Ltd.", "pct": 3.59 },
+    { "name": "Ipca Laboratories Ltd.", "pct": 3.43 },
+    { "name": "Coromandel International Ltd.", "pct": 3.19 },
+    { "name": "Mphasis Ltd.", "pct": 3.09 },
+    { "name": "Oberoi Realty Ltd.", "pct": 2.73 }
+  ],
+  "manager": "Atul Bhole",
+  "min_investment": {
+    "lump_sum_first": 100,
+    "sip": 100
+  }
+},
+{
+  "fund": "HDFC Mid-Cap Opportunities Fund - Direct Plan - Growth",
+  "inception_date": "2013-01-01",
+  "latest_nav": 194.99,
+  "aum": {
+    "value": 72610.08,
+    "unit": "Cr",
+    "as_of": "2025-03-31"
+  },
+  "expense_ratio": 0.89,
+  "exit_load": {
+    "value_pct": 1.0,
+    "period_days": 365
+  },
+  "risk_profile": "Very High",
+  "benchmark": "NIFTY Midcap 150 TRI",
+  "annualized_returns": {
+    "1y": 8.22,
+    "3y": 30.78,
+    "5y": 33.04,
+    "since_launch": 18.15
+  },
+  "top_holdings": [
+    { "name": "Max Financial Services Ltd.", "pct": 4.04 },
+    { "name": "Indian Hotels Company Ltd.", "pct": 3.69 },
+    { "name": "Federal Bank Ltd.", "pct": 3.39 },
+    { "name": "Coforge Ltd.", "pct": 3.36 },
+    { "name": "Ipca Laboratories Ltd.", "pct": 3.27 }
+  ],
+  "manager": "Chirag Setalvad",
+  "min_investment": {
+    "lump_sum_first": 100,
+    "sip": 100
+  }
+}
+,
+{
+  "fund": "Nippon India Growth Fund - Direct Plan - Growth",
+  "inception_date": "1995-06-30",
+  "latest_nav": 4167.33,
+  "aum": {
+    "value": 33174.74,
+    "unit": "Cr",
+    "as_of": "2025-05-02"
+  },
+  "expense_ratio": 0.74,
+  "exit_load": {
+    "value_pct": 1.0,
+    "period_days": 365
+  },
+  "risk_profile": "Very High",
+  "benchmark": "NIFTY Midcap 150 TRI",
+  "annualized_returns": {
+    "1y": 9.12,
+    "3y": 24.45,
+    "5y": 33.51,
+    "since_launch": 18.62
+  },
+  "top_holdings": [
+    { "name": "BSE Ltd.", "pct": 3.13 },
+    { "name": "Cholamandalam Financial Holdings Ltd.", "pct": 2.82 },
+    { "name": "Fortis Healthcare Ltd.", "pct": 2.79 },
+    { "name": "Persistent Systems Ltd.", "pct": 2.73 },
+    { "name": "Voltas Ltd.", "pct": 2.52 }
+  ],
+  "manager": "Manish Gunwani",
+  "min_investment": {
+    "lump_sum_first": 100,
+    "sip": 100
+  }
+}
+,
+{
+  "fund": "Motilal Oswal Midcap Fund - Direct Plan - Growth",
+  "inception_date": "2014-02-24",
+  "latest_nav": 107.9502,
+  "aum": {
+    "value": 26028.34,
+    "unit": "Cr",
+    "as_of": "2025-03-31"
+  },
+  "expense_ratio": 0.64,
+  "exit_load": {
+    "value_pct": 1.0,
+    "period_days": 365
+  },
+  "risk_profile": "Very High",
+  "benchmark": "NIFTY Midcap 150 TRI",
+  "annualized_returns": {
+    "1y": 14.74,
+    "3y": 28.40,
+    "5y": 37.07,
+    "since_launch": 23.69
+  },
+  "top_holdings": [
+    { "name": "Coforge Ltd.", "pct": 10.13 },
+    { "name": "Persistent Systems Ltd.", "pct": 9.53 },
+    { "name": "Kalyan Jewellers India Ltd.", "pct": 7.18 },
+    { "name": "Polycab India Ltd.", "pct": 4.40 },
+    { "name": "Trent Ltd.", "pct": 4.37 }
+  ],
+  "manager": "Rakesh Shetty",
+  "min_investment": {
+    "lump_sum_first": 500,
+    "sip": 500
+  }
+}
+,
+{
+  "fund": "SBI Flexi Cap Fund - Direct Plan - Growth",
+  "inception_date": "1987-06-29",
+  "latest_nav": 116.54,
+  "aum": {
+    "groww": 1063207,
+    "unit": "Cr",
+    "as_of": "2025-05-02"
+  },
+  "expense_ratio": 0.86,
+  "exit_load": {
+    "value_pct": 1.0,
+    "period_days": 365
+  },
+  "risk_profile": "Very High",
+  "benchmark": "BSE 500 TRI",
+  "asset_allocation": {
+    "equity": 91.02,
+    "debt": 0.84,
+    "others": 8.14
+  },
+  "manager": "Anup Upadhyay",
+  "min_investment": {
+    "lump_sum_first": 1000,
+    "sip": 500
+  }
+},
+{
+  "fund": "Axis Flexi Cap Fund - Direct Plan - Growth",
+  "inception_date": "2009-09-03",
+  "latest_nav": 27.57,
+  "aum": {
+    "moneycontrol": 12039.75,
+    "groww": 305435,
+    "unit": "Cr",
+    "as_of": "2025-05-02"
+  },
+  "expense_ratio": 0.72,
+  "exit_load": {
+    "value_pct": 1.0,
+    "period_days": 365
+  },
+  "risk_profile": "Very High",
+  "benchmark": "NIFTY 500 TRI",
+  "asset_allocation": {
+    "equity": 92.44,
+    "debt": 0.0,
+    "others": 7.56
+  },
+  "annualized_returns": {
+    "1y": 8.16,
+    "3y": 21.00,
+    "5y": 18.73
+  },
+  "managers": [
+    { "name": "Jinesh Gopani", "to": "Present" },
+    { "name": "Shreyash Devalkar", "to": "Present" }
+  ],
+  "min_investment": {
+    "lump_sum_first": 100,
+    "sip": 100
+  }
+}
+,
+{
+  "fund": "Axis Bluechip Fund - Direct Plan - Growth",
+  "inception_date": "2010-01-05",
+  "latest_nav": 67.65,
+  "aum": {
+    "value": 32349.42,
+    "unit": "Cr",
+    "as_of": "2025-03-31"
+  },
+  "expense_ratio": 0.70,
+  "exit_load": {
+    "value_pct": 1.0,
+    "period_days": 365
+  },
+  "risk_profile": "Very High",
+  "benchmark": "BSE 100 TRI",
+  "annualized_returns": {
+    "1y": 7.6,
+    "3y": 12.19,
+    "5y": 17.1,
+    "since_launch": 14.8
+  },
+  "top_holdings": [
+    { "name": "HDFC Bank Ltd.", "pct": 9.69 },
+    { "name": "ICICI Bank Ltd.", "pct": 8.82 },
+    { "name": "Bharti Airtel Ltd.", "pct": 5.59 },
+    { "name": "Bajaj Finance Ltd.", "pct": 5.08 },
+    { "name": "Infosys Ltd.", "pct": 4.35 }
+  ],
+  "manager": "Shreyash Devalkar",
+  "min_investment": {
+    "lump_sum_first": 100,
+    "sip": 100
+  }
+}
+,
+{
+  "fund": "Mirae Asset Large Cap Fund - Direct Plan - Growth",
+  "inception_date": "2013-01-02",
+  "latest_nav": 121.382,
+  "aum": {
+    "value": 37778.37,
+    "unit": "Cr",
+    "as_of": "2025-05-02"
+  },
+  "expense_ratio": 0.74,
+  "exit_load": {
+    "value_pct": 1.0,
+    "period_days": 365
+  },
+  "risk_profile": "Very High",
+  "benchmark": "NIFTY 100 TRI",
+  "asset_allocation": {
+    "equity": 99.52,
+    "debt": 0.00,
+    "others": 0.48
+  },
+  "annualized_returns": {
+    "1y": 10.36,
+    "3y": 13.55,
+    "5y": 20.69,
+    "10y": 14.18
+  },
+  "top_holdings": [
+    { "name": "HDFC Bank Ltd.", "pct": 10.28 },
+    { "name": "ICICI Bank Ltd.", "pct": 7.77 },
+    { "name": "Infosys Ltd.", "pct": 5.24 },
+    { "name": "Reliance Industries Ltd.", "pct": 4.81 },
+    { "name": "Axis Bank Ltd.", "pct": 4.16 }
+  ],
+  "manager": "Gaurav Misra",
+  "min_investment": {
+    "lump_sum_first": 5000,
+    "sip": 99
+  }
+}
+,
+{
+  "fund": "Aditya Birla Sun Life Frontline Equity Fund - Direct Plan - Growth",
+  "expense_ratio": 1.02,
+  "exit_load": {
+    "value_pct": 1.0,
+    "period_days": 90
+  },
+  "aum": {
+    "value": 28105.7,
+    "unit": "Cr",
+    "as_of": "2025-05-02"
+  },
+  "latest_nav": 560.14,
+  "inception_date": "1994-12-23",
+  "risk_profile": "Very High",
+  "benchmark": "NIFTY 100 TRI",
+  "asset_allocation": {
+    "equity": 94.51,
+    "debt": 1.17,
+    "others": 4.32
+  },
+  "annualized_returns": {
+    "1y": 10.19,
+    "3y": 16.35,
+    "5y": 22.74,
+    "10y": 13.19
+  },
+  "top_holdings": [
+    { "name": "HDFC Bank Ltd.", "pct": 8.25 },
+    { "name": "ICICI Bank Ltd.", "pct": 7.93 },
+    { "name": "Infosys Ltd.", "pct": 5.61 },
+    { "name": "Reliance Industries Ltd.", "pct": 4.89 },
+    { "name": "Larsen & Toubro Ltd.", "pct": 4.69 }
+  ],
+  "manager": "Mahesh Patil",
+  "min_investment": {
+    "lump_sum_first": 100,
+    "sip": 100
+  }
+}
+,
+{
+  "fund": "ICICI Prudential Bluechip Fund - Direct Plan - Growth",
+  "expense_ratio": 1.41,
+  "exit_load": {
+    "value_pct": 1.0,
+    "period_days": 365
+  },
+  "aum": {
+    "value": 64962.52,
+    "unit": "Cr",
+    "as_of": "2025-02-28"
+  },
+  "inception_date": "2008-05-23",
+  "risk_profile": "Very High",
+  "asset_allocation": {
+    "equity": 92.92,
+    "debt": 0.36,
+    "cash": null,
+    "others": 6.71
+  },
+  "annualized_returns": {
+    "1y": 8.73,
+    "3y": 18.46,
+    "5y": 24.04,
+    "10y": 14.98
+  },
+  "top_holdings": [
+    { "name": "HDFC Bank Ltd.", "pct": 9.76 },
+    { "name": "ICICI Bank Ltd.", "pct": 8.88 },
+    { "name": "Larsen & Toubro Ltd.", "pct": 6.27 },
+    { "name": "Reliance Industries Ltd.", "pct": 6.16 },
+    { "name": "Bharti Airtel Ltd.", "pct": 4.36 }
+  ],
+  "managers": [
+    {
+      "name": "Anish Tawakley",
+      "from": "2018-09",
+      "to": "Present",
+      "notes": ""
+    },
+    {
+      "name": "Vaibhav Dusad",
+      "from": "2021-01",
+      "to": "Present",
+      "notes": ""
+    },
+    {
+      "name": "Sharmila D’Mello",
+      "from": "2022-07",
+      "to": "Present",
+      "notes": ""
+    }
+  ],
+  "min_investment": {
+    "lump_sum_first": 100,
+    "sip": 100
+  }
+}
+,
+{
+  "fund": "Nippon India Large Cap Fund - Direct Plan - Growth",
+  "expense_ratio": 0.71,
+  "exit_load": {
+    "value_pct": 1.0,
+    "period_days": 7
+  },
+  "aum": {
+    "value": 35699.99,
+    "unit": "Cr",
+    "as_of": "2024-12-31"
+  },
+  "inception_date": "2013-01-02",
+  "risk_profile": "Very High",
+  "asset_allocation": {
+    "equity": 98.15,
+    "debt": 0.70,
+    "cash": null,
+    "others": 1.15
+  },
+  "annualized_returns": {
+    "1y": 7.40,
+    "3y": 20.08,
+    "5y": 25.85,
+    "10y": 13.84
+  },
+  "top_holdings": [
+    { "name": "HDFC Bank Ltd.", "pct": 9.03 },
+    { "name": "Reliance Industries Ltd.", "pct": 6.36 },
+    { "name": "ICICI Bank Ltd.", "pct": 6.10 },
+    { "name": "Axis Bank Ltd.", "pct": 4.84 },
+    { "name": "Larsen & Toubro Ltd.", "pct": 3.91 }
+  ],
+  "managers": [
+    {
+      "name": "Sailesh Raj Bhan",
+      "from": "2013-01",
+      "to": "Present",
+      "notes": "MBA, CFA; previously with Emkay, Shah & Sequeira, ICFAI."
+    },
+    {
+      "name": "Bhavik Dave",
+      "from": "2024-08",
+      "to": "Present",
+      "notes": "BBA, PGDM; previously with Motilal Oswal, CRISIL, GMO."
+    }
+  ],
+  "min_investment": {
+    "lump_sum_first": 1000,
+    "sip": 1000
+  }
+}
+,
+{
+  "fund": "SBI Multicap Fund - Direct Plan - Growth",
+  "expense_ratio": 0.87,
+  "exit_load": {
+    "value_pct": 1.0,
+    "period_days": 365,
+    "notes": "Nil on up to 10% of units"
+  },
+  "aum": {
+    "value": 19192.41,
+    "unit": "Cr",
+    "as_of": "2025-03-31"
+  },
+  "inception_date": "2022-03-08",
+  "risk_profile": "Very High",
+  "asset_allocation": {
+    "equity": 92.94,
+    "debt": 0.87,
+    "cash": 6.20,
+    "others": null
+  },
+  "annualized_returns": {
+    "1y": 13.70,
+    "3y": 18.07,
+    "5y": null,
+    "10y": null
+  },
+  "top_holdings": [
+    { "name": "Kotak Mahindra Bank Ltd.", "pct": 5.29 },
+    { "name": "Muthoot Finance Ltd.", "pct": 4.10 },
+    { "name": "Hindalco Industries Ltd.", "pct": 3.92 },
+    { "name": "ICICI Bank Ltd.", "pct": 3.81 },
+    { "name": "Jubilant FoodWorks Ltd.", "pct": 3.81 }
+  ],
+  "managers": [
+    { "name": "Rama Iyer Srinivisan", "from": "2022-03", "to": "Present" },
+    { "name": "Pradeep Kesavan", "from": "2022-03", "to": "Present" }
+  ],
+  "min_investment": {
+    "lump_sum_first": 5000,
+    "sip": 500
+  }
+}
+,
+{
+  "fund": "Axis Multicap Fund - Direct Plan - Growth",
+  "expense_ratio": 0.75,
+  "exit_load": {
+    "value_pct": 1.0,
+    "period_days": 365
+  },
+  "aum": {
+    "value": 6979.46,
+    "unit": "Cr",
+    "as_of": "2025-05-02"
+  },
+  "inception_date": "2021-12-16",
+  "risk_profile": "Very High",
+  "asset_allocation": {
+    "equity": 92.10,
+    "debt": 0.00,
+    "cash": null,
+    "others": 7.90
+  },
+  "annualized_returns": {
+    "1y": 11.59,
+    "3y": 22.28,
+    "5y": null,
+    "10y": null
+  },
+  "top_holdings": [
+    { "name": "HDFC Bank Ltd.", "pct": 5.85 },
+    { "name": "ICICI Bank Ltd.", "pct": 4.85 },
+    { "name": "Reliance Industries Ltd.", "pct": 2.84 },
+    { "name": "Blue Star Ltd.", "pct": 2.74 },
+    { "name": "Persistent Systems Ltd.", "pct": 2.52 }
+  ],
+  "managers": [
+    { "name": "Hitesh Das", "from": "2021-12", "to": "Present" },
+    { "name": "Nitin Arora", "from": "2023-05", "to": "Present" },
+    { "name": "Shreyash Devalkar", "from": "2023-03", "to": "Present" }
+  ],
+  "min_investment": {
+    "lump_sum_first": 100,
+    "sip": 100
+  }
+}
+,
+{
+  "fund": "ICICI Prudential Multicap Fund - Direct Plan - Growth",
+  "expense_ratio": 0.99,
+  "exit_load": {
+    "value_pct": 1.0,
+    "period_days": 365
+  },
+  "aum": {
+    "value": 13938,
+    "unit": "Cr",
+    "as_of": "2025-03-31"
+  },
+  "inception_date": "2013-01-01",
+  "risk_profile": "Very High",
+  "asset_allocation": {
+    "equity": 91.65,
+    "debt": 1.68,
+    "cash": 6.67,
+    "others": null
+  },
+  "annualized_returns": {
+    "1y": 8.84,
+    "3y": 21.34,
+    "5y": 27.38,
+    "10y": 15.47
+  },
+  "top_holdings": [
+    { "name": "ICICI Bank Ltd.", "pct": 5.81 },
+    { "name": "HDFC Bank Ltd.", "pct": 4.55 },
+    { "name": "Reliance Industries Ltd.", "pct": 3.80 },
+    { "name": "Axis Bank Ltd.", "pct": 3.32 },
+    { "name": "Infosys Ltd.", "pct": 2.48 }
+  ],
+  "managers": [
+    {
+      "name": "Anand V Sharma",
+      "from": "2022-08",
+      "to": "Present",
+      "notes": "B.E. (Computer Engineer), MMS; previously with Oracle Financial Services Software Ltd."
+    },
+    {
+      "name": "Sharmila D'Mello",
+      "from": "2022-07",
+      "to": "Present",
+      "notes": "CA, BAF; joined ICICI Prudential AMC in Sep 2016."
+    }
+  ],
+  "min_investment": {
+    "lump_sum_first": 5000,
+    "sip": 100
+  }
+}
+,
+{
+  "fund": "HDFC Multicap Fund - Direct Plan - Growth",
+  "expense_ratio": 0.94,
+  "exit_load": {
+    "value_pct": 1.0,
+    "period_days": 365
+  },
+  "aum": {
+    "value": 15944.86,
+    "unit": "Cr",
+    "as_of": "2025-03-31"
+  },
+  "inception_date": "2021-12-07",
+  "risk_profile": "Very High",
+  "asset_allocation": {
+    "equity": 97.56,
+    "debt": null,
+    "cash": null,
+    "others": 2.44
+  },
+  "annualized_returns": {
+    "1y": 4.26,
+    "3y": 22.93,
+    "5y": null,
+    "10y": null
+  },
+  "top_holdings": [
+    { "name": "HDFC Bank Ltd.", "pct": 7.5 },
+    { "name": "ICICI Bank Ltd.", "pct": 6.2 },
+    { "name": "Infosys Ltd.", "pct": 5.8 },
+    { "name": "Reliance Industries Ltd.", "pct": 5.5 },
+    { "name": "Larsen & Toubro Ltd.", "pct": 4.9 }
+  ],
+  "managers": [
+    {
+      "name": "Gopal Agrawal",
+      "from": "2021-11",
+      "to": "Present",
+      "notes": "B.E., MBM; previously with DSP Mutual Fund, Tata AMC, Mirae Asset MF, SBI MF, Kotak Securities, HDFC Securities, IDBI Capital, UTI Securities, IPCL."
+    },
+    {
+      "name": "Dhruv Muchhal",
+      "from": "2023-06",
+      "to": "Present",
+      "notes": "B.Com., CA, CFA; previously with Motilal Oswal Financial Services, Goldman Sachs, CRISIL Global Research & Analytics, Deloitte Haskins & Sells."
+    }
+  ],
+  "min_investment": {
+    "lump_sum_first": 100,
+    "sip": 100
+  }
+}
+
+]
