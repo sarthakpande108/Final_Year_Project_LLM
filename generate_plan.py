@@ -54,10 +54,11 @@ def generate_financial_plan(user_id: str) -> str:
     dependents = profile.get('dependents', [])
     income = assets.get('monthlyIncome', 0)
     expenses = assets.get('monthlyExpenditure', 0)
-    savings = assets.get('savings', 0)
+    savings = assets.get('currentSavings', 0)
     emergency_fund = assets.get('emergencyFund', 0)
     investments = assets.get('investments', [])
     loans = assets.get('loans', [])
+    print(savings, emergency_fund, investments, loans)
 
     emis = sum(l.get('emi', 0) for l in loans)
     surplus = income - expenses - emis
@@ -71,13 +72,8 @@ def generate_financial_plan(user_id: str) -> str:
     sip_required = calculate_sip(goal_amount, years_left)
 
     # --- Mutual Fund Parsing ---
-    parsed_mfs = []
-    for block in mf_blocks:
-        try:
-            mf = parse_json_field(block)
-            parsed_mfs.append(mf)
-        except Exception:
-            continue
+
+
 
     # === Prompt to Gemini ===
     prompt = f"""
@@ -123,7 +119,7 @@ Each plan must:
 ---
 
 ### 📂 Mutual Fund Dataset
-{json.dumps(parsed_mfs[:40], indent=2)}
+{json.dumps(mf_blocks[:40], indent=2)}
 
 ---
 
@@ -134,24 +130,19 @@ Each plan must:
 
 ### 🧾 Final Output Format:
 Respond in **Markdown** using these headers:
+show  montly amount invesmtent in each type of investment based on calculated requirment sip to acheive goal.
+1. 💰 Suggested Action Plan (Moderate)  with Mutual Fund Recommendations  and stock recommendations
+2. 💰 Suggested Action Plan (Aggressive)   with Mutual Fund Recommendations  and stock recommendations
+3. 📉 Loan Optimization Advice  
+4. 📊 Projection Table for both plan for comparison which one is better along with risk   
+5. ✅ Final Advice (with confidence)
 
-1. 🎯 Goal Summary  
-2. 👤 User Snapshot  
-3. 📊 Goal Summary (Detailed)  
-4. 💰 Suggested Action Plan (Moderate)  
-5. 💰 Suggested Action Plan (Aggressive)  
-6. 🧠 Mutual Fund Recommendations  
-7. 📈 Stock Recommendations  
-8. 📉 Loan Optimization Advice  
-9. 📊 Projection Table  
-10. ✅ Final Advice (with confidence)
-
-Avoid bullet spamming. Make it look like a real wealth advisor's report.
+Avoid bullet spamming. Make it look like a real wealth advisor's report like professional.
 """
 
     response = client.generate_content(
         [prompt],
-        generation_config=GenerationConfig(temperature=0.4, max_output_tokens=4096)
+        generation_config=GenerationConfig(temperature=0.7, max_output_tokens=2096)
     )
 
     return response.text.strip()
