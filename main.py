@@ -12,7 +12,8 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "https://finalyear-db-server.onrender.com",
-        "https://final-year-project-frontend-b1n7.onrender.com"
+        "https://final-year-project-frontend-b1n7.onrender.com",
+        "http://localhost:3000",
     ],
     allow_credentials=True,
     allow_methods=["*"],
