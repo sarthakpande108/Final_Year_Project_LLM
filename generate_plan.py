@@ -12,7 +12,7 @@ if not api_key:
     raise ValueError("GOOGLE_API_KEY not found in environment variables.")
 genai.configure(api_key=api_key)
 
-
+model = genai.GenerativeModel("gemini-1.5-flash")
 
 # === Load Dataset ===
 def load_data(stock_path='nifty100_seqdata.txt',
@@ -119,19 +119,13 @@ Each plan must:
 - Include loan optimization advice and potential savings
 - Show projection table of savings growth
 - Recommend how to build up emergency fund to 6x monthly expenses, if short
-
 ---
-
 ### 📂 Mutual Fund Dataset
 {json.dumps(parsed_mfs[:40], indent=2)}
-
 ---
-
 ### 📈 Stock Dataset
 {json.dumps(stocks[:40], indent=2)}
-
 ---
-
 ### 🧾 Final Output Format:
 Respond in **Markdown** using these headers:
 
@@ -149,8 +143,7 @@ Respond in **Markdown** using these headers:
 Avoid bullet spamming. Make it look like a real wealth advisor's report.
 """
 
-    response = genai.generate_content(
-        model="models/gemini-1.5-flash",
+    response = model.generate_content(
          contents=prompt,
         generation_config=GenerationConfig(temperature=0.4, max_output_tokens=4096)
     )
